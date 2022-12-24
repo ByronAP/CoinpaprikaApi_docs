@@ -1,0 +1,1188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Active property" Url="html/P-CoinpaprikaApi.Models.ContractItem.Active.htm" />
+  <HelpKINode Title="Active property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Active.htm" />
+  <HelpKINode Title="Address property" Url="html/P-CoinpaprikaApi.Models.ContractItem.Address.htm" />
+  <HelpKINode Title="AdjustedRank property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.AdjustedRank.htm" />
+  <HelpKINode Title="AdjustedVolume24H property" Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume24H.htm" />
+  <HelpKINode Title="AdjustedVolume24HShare property" Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.AdjustedVolume24HShare.htm" />
+  <HelpKINode Title="AdjustedVolume24HShare property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.AdjustedVolume24HShare.htm" />
+  <HelpKINode Title="AdjustedVolume30D property" Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume30D.htm" />
+  <HelpKINode Title="AdjustedVolume7D property" Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume7D.htm" />
+  <HelpKINode Title="All enumeration member" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+  <HelpKINode Title="All field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.All.htm" />
+  <HelpKINode Title="Amount property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.Amount.htm" />
+  <HelpKINode Title="ApiStatus property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ApiStatus.htm" />
+  <HelpKINode Title="API_BASE_URL field" Url="html/F-CoinpaprikaApi.Constants.API_BASE_URL.htm" />
+  <HelpKINode Title="API_LOGO_128X128_PNG field" Url="html/F-CoinpaprikaApi.Constants.API_LOGO_128X128_PNG.htm" />
+  <HelpKINode Title="API_MIN_CACHE_TIME_MS field" Url="html/F-CoinpaprikaApi.Constants.API_MIN_CACHE_TIME_MS.htm" />
+  <HelpKINode Title="API_NAME field" Url="html/F-CoinpaprikaApi.Constants.API_NAME.htm" />
+  <HelpKINode Title="API_PRO_BASE_URL field" Url="html/F-CoinpaprikaApi.Constants.API_PRO_BASE_URL.htm" />
+  <HelpKINode Title="API_VERSION field" Url="html/F-CoinpaprikaApi.Constants.API_VERSION.htm" />
+  <HelpKINode Title="API_VERSION_FULL field" Url="html/F-CoinpaprikaApi.Constants.API_VERSION_FULL.htm" />
+  <HelpKINode Title="AthDate property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.AthDate.htm" />
+  <HelpKINode Title="AthPrice property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.AthPrice.htm" />
+  <HelpKINode Title="BaseCurrencyId property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.BaseCurrencyId.htm" />
+  <HelpKINode Title="BaseCurrencyId property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.BaseCurrencyId.htm" />
+  <HelpKINode Title="BaseCurrencyId property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BaseCurrencyId.htm" />
+  <HelpKINode Title="BaseCurrencyName property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.BaseCurrencyName.htm" />
+  <HelpKINode Title="BaseCurrencyName property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.BaseCurrencyName.htm" />
+  <HelpKINode Title="BaseCurrencyName property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BaseCurrencyName.htm" />
+  <HelpKINode Title="BasePriceLastUpdated property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BasePriceLastUpdated.htm" />
+  <HelpKINode Title="BetaValue property" Url="html/P-CoinpaprikaApi.Models.TickerItem.BetaValue.htm" />
+  <HelpKINode Title="BitcoinDominancePercentage property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.BitcoinDominancePercentage.htm" />
+  <HelpKINode Title="Category property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Category.htm" />
+  <HelpKINode Title="Category property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Category.htm" />
+  <HelpKINode Title="CirculatingSupply property" Url="html/P-CoinpaprikaApi.Models.TickerItem.CirculatingSupply.htm" />
+  <HelpKINode Title="Close property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Close.htm" />
+  <HelpKINode Title="CoinCounter property" Url="html/P-CoinpaprikaApi.Models.CoinTagItem.CoinCounter.htm" />
+  <HelpKINode Title="CoinCounter property" Url="html/P-CoinpaprikaApi.Models.SearchTag.CoinCounter.htm" />
+  <HelpKINode Title="CoinCounter property" Url="html/P-CoinpaprikaApi.Models.TagItem.CoinCounter.htm" />
+  <HelpKINode Title="CoinEventItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinEventItem.htm" />
+  <HelpKINode Title="CoinEventItem class" Url="html/T-CoinpaprikaApi.Models.CoinEventItem.htm" />
+  <HelpKINode Title="CoinEventItem class">
+    <HelpKINode Title="about CoinEventItem class" Url="html/T-CoinpaprikaApi.Models.CoinEventItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinEventItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinEventItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinEventItem.Date property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Date.htm" />
+  <HelpKINode Title="CoinEventItem.DateTo property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.DateTo.htm" />
+  <HelpKINode Title="CoinEventItem.Description property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Description.htm" />
+  <HelpKINode Title="CoinEventItem.Id property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Id.htm" />
+  <HelpKINode Title="CoinEventItem.IsConference property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.IsConference.htm" />
+  <HelpKINode Title="CoinEventItem.Link property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Link.htm" />
+  <HelpKINode Title="CoinEventItem.Name property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Name.htm" />
+  <HelpKINode Title="CoinEventItem.ProofImageLink property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.ProofImageLink.htm" />
+  <HelpKINode Title="CoinExchangeItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinExchangeItem.htm" />
+  <HelpKINode Title="CoinExchangeItem class" Url="html/T-CoinpaprikaApi.Models.CoinExchangeItem.htm" />
+  <HelpKINode Title="CoinExchangeItem class">
+    <HelpKINode Title="about CoinExchangeItem class" Url="html/T-CoinpaprikaApi.Models.CoinExchangeItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinExchangeItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinExchangeItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinExchangeItem.AdjustedVolume24HShare property" Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.AdjustedVolume24HShare.htm" />
+  <HelpKINode Title="CoinExchangeItem.Fiats property" Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Fiats.htm" />
+  <HelpKINode Title="CoinExchangeItem.Id property" Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Id.htm" />
+  <HelpKINode Title="CoinExchangeItem.Name property" Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Name.htm" />
+  <HelpKINode Title="CoinId property" Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinId.htm" />
+  <HelpKINode Title="CoinItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinItem.htm" />
+  <HelpKINode Title="CoinItem class" Url="html/T-CoinpaprikaApi.Models.CoinItem.htm" />
+  <HelpKINode Title="CoinItem class">
+    <HelpKINode Title="about CoinItem class" Url="html/T-CoinpaprikaApi.Models.CoinItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinItem.Id property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Id.htm" />
+  <HelpKINode Title="CoinItem.IsActive property" Url="html/P-CoinpaprikaApi.Models.CoinItem.IsActive.htm" />
+  <HelpKINode Title="CoinItem.IsNew property" Url="html/P-CoinpaprikaApi.Models.CoinItem.IsNew.htm" />
+  <HelpKINode Title="CoinItem.Name property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Name.htm" />
+  <HelpKINode Title="CoinItem.Rank property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Rank.htm" />
+  <HelpKINode Title="CoinItem.Symbol property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Symbol.htm" />
+  <HelpKINode Title="CoinItem.Type property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Type.htm" />
+  <HelpKINode Title="CoinLinks class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinks.htm" />
+  <HelpKINode Title="CoinLinks class" Url="html/T-CoinpaprikaApi.Models.CoinLinks.htm" />
+  <HelpKINode Title="CoinLinks class">
+    <HelpKINode Title="about CoinLinks class" Url="html/T-CoinpaprikaApi.Models.CoinLinks.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinks.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinLinks.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinLinks.Explorer property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Explorer.htm" />
+  <HelpKINode Title="CoinLinks.Facebook property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Facebook.htm" />
+  <HelpKINode Title="CoinLinks.Medium property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Medium.htm" />
+  <HelpKINode Title="CoinLinks.Reddit property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Reddit.htm" />
+  <HelpKINode Title="CoinLinks.SourceCode property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.SourceCode.htm" />
+  <HelpKINode Title="CoinLinks.Website property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Website.htm" />
+  <HelpKINode Title="CoinLinks.Youtube property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Youtube.htm" />
+  <HelpKINode Title="CoinLinksExtendedItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm" />
+  <HelpKINode Title="CoinLinksExtendedItem class" Url="html/T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm" />
+  <HelpKINode Title="CoinLinksExtendedItem class">
+    <HelpKINode Title="about CoinLinksExtendedItem class" Url="html/T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinLinksExtendedItem.Stats property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Stats.htm" />
+  <HelpKINode Title="CoinLinksExtendedItem.Type property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Type.htm" />
+  <HelpKINode Title="CoinLinksExtendedItem.Url property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Url.htm" />
+  <HelpKINode Title="CoinLinksExtendedItemStats class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm" />
+  <HelpKINode Title="CoinLinksExtendedItemStats class" Url="html/T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm" />
+  <HelpKINode Title="CoinLinksExtendedItemStats class">
+    <HelpKINode Title="about CoinLinksExtendedItemStats class" Url="html/T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinLinksExtendedItemStats.Contributors property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Contributors.htm" />
+  <HelpKINode Title="CoinLinksExtendedItemStats.Followers property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Followers.htm" />
+  <HelpKINode Title="CoinLinksExtendedItemStats.Stars property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Stars.htm" />
+  <HelpKINode Title="CoinLinksExtendedItemStats.Subscribers property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Subscribers.htm" />
+  <HelpKINode Title="CoinMarketItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinMarketItem.htm" />
+  <HelpKINode Title="CoinMarketItem class" Url="html/T-CoinpaprikaApi.Models.CoinMarketItem.htm" />
+  <HelpKINode Title="CoinMarketItem class">
+    <HelpKINode Title="about CoinMarketItem class" Url="html/T-CoinpaprikaApi.Models.CoinMarketItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinMarketItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinMarketItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinMarketItem.AdjustedVolume24HShare property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.AdjustedVolume24HShare.htm" />
+  <HelpKINode Title="CoinMarketItem.BaseCurrencyId property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.BaseCurrencyId.htm" />
+  <HelpKINode Title="CoinMarketItem.BaseCurrencyName property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.BaseCurrencyName.htm" />
+  <HelpKINode Title="CoinMarketItem.Category property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Category.htm" />
+  <HelpKINode Title="CoinMarketItem.ExchangeId property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.ExchangeId.htm" />
+  <HelpKINode Title="CoinMarketItem.ExchangeName property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.ExchangeName.htm" />
+  <HelpKINode Title="CoinMarketItem.FeeType property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.FeeType.htm" />
+  <HelpKINode Title="CoinMarketItem.LastUpdated property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.LastUpdated.htm" />
+  <HelpKINode Title="CoinMarketItem.MarketUrl property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.MarketUrl.htm" />
+  <HelpKINode Title="CoinMarketItem.Outlier property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Outlier.htm" />
+  <HelpKINode Title="CoinMarketItem.Pair property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Pair.htm" />
+  <HelpKINode Title="CoinMarketItem.QuoteCurrencyId property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.QuoteCurrencyId.htm" />
+  <HelpKINode Title="CoinMarketItem.QuoteCurrencyName property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.QuoteCurrencyName.htm" />
+  <HelpKINode Title="CoinMarketItem.Quotes property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Quotes.htm" />
+  <HelpKINode Title="CoinMarketItem.TrustScore property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.TrustScore.htm" />
+  <HelpKINode Title="CoinName property" Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinName.htm" />
+  <HelpKINode Title="CoinpaprikaApi namespace" Url="html/N-CoinpaprikaApi.htm" />
+  <HelpKINode Title="CoinpaprikaApi.CoinpaprikaClient class" Url="html/AllMembers.T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+  <HelpKINode Title="CoinpaprikaApi.CoinpaprikaClient class" Url="html/T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Constants class" Url="html/AllMembers.T-CoinpaprikaApi.Constants.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Constants class" Url="html/T-CoinpaprikaApi.Constants.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Exceptions namespace" Url="html/N-CoinpaprikaApi.Exceptions.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Exceptions.UnknownException class" Url="html/AllMembers.T-CoinpaprikaApi.Exceptions.UnknownException.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Exceptions.UnknownException class" Url="html/T-CoinpaprikaApi.Exceptions.UnknownException.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp namespace" Url="html/N-CoinpaprikaApi.Imp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.CoinsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.CoinsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.CoinsImp class" Url="html/T-CoinpaprikaApi.Imp.CoinsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.ContractsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ContractsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.ContractsImp class" Url="html/T-CoinpaprikaApi.Imp.ContractsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.ExchangesImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ExchangesImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.ExchangesImp class" Url="html/T-CoinpaprikaApi.Imp.ExchangesImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.GlobalImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.GlobalImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.GlobalImp class" Url="html/T-CoinpaprikaApi.Imp.GlobalImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.KeyImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.KeyImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.KeyImp class" Url="html/T-CoinpaprikaApi.Imp.KeyImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.PersonsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.PersonsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.PersonsImp class" Url="html/T-CoinpaprikaApi.Imp.PersonsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.TagsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.TagsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.TagsImp class" Url="html/T-CoinpaprikaApi.Imp.TagsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.TickersImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.TickersImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.TickersImp class" Url="html/T-CoinpaprikaApi.Imp.TickersImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.ToolsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ToolsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Imp.ToolsImp class" Url="html/T-CoinpaprikaApi.Imp.ToolsImp.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models namespace" Url="html/N-CoinpaprikaApi.Models.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinEventItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinEventItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinEventItem class" Url="html/T-CoinpaprikaApi.Models.CoinEventItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinExchangeItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinExchangeItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinExchangeItem class" Url="html/T-CoinpaprikaApi.Models.CoinExchangeItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinItem class" Url="html/T-CoinpaprikaApi.Models.CoinItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinLinks class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinks.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinLinks class" Url="html/T-CoinpaprikaApi.Models.CoinLinks.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinLinksExtendedItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinLinksExtendedItem class" Url="html/T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinLinksExtendedItemStats class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinLinksExtendedItemStats class" Url="html/T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinMarketItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinMarketItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinMarketItem class" Url="html/T-CoinpaprikaApi.Models.CoinMarketItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinResponse class" Url="html/T-CoinpaprikaApi.Models.CoinResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinTagItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTagItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinTagItem class" Url="html/T-CoinpaprikaApi.Models.CoinTagItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinTeamItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTeamItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinTeamItem class" Url="html/T-CoinpaprikaApi.Models.CoinTeamItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinTweetItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTweetItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinTweetItem class" Url="html/T-CoinpaprikaApi.Models.CoinTweetItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinWhitepaper class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinWhitepaper.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.CoinWhitepaper class" Url="html/T-CoinpaprikaApi.Models.CoinWhitepaper.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.ContractItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.ContractItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.ContractItem class" Url="html/T-CoinpaprikaApi.Models.ContractItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.ExchangeFiat class" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeFiat.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.ExchangeFiat class" Url="html/T-CoinpaprikaApi.Models.ExchangeFiat.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.ExchangeItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.ExchangeItem class" Url="html/T-CoinpaprikaApi.Models.ExchangeItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.ExchangeMarketItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeMarketItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.ExchangeMarketItem class" Url="html/T-CoinpaprikaApi.Models.ExchangeMarketItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.GlobalResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.GlobalResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.GlobalResponse class" Url="html/T-CoinpaprikaApi.Models.GlobalResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.KeyInfoResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyInfoResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.KeyInfoResponse class" Url="html/T-CoinpaprikaApi.Models.KeyInfoResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.KeyUsage class" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyUsage.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.KeyUsage class" Url="html/T-CoinpaprikaApi.Models.KeyUsage.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.KeyUsageCurrMonth class" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.KeyUsageCurrMonth class" Url="html/T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.MarketQuote class" Url="html/AllMembers.T-CoinpaprikaApi.Models.MarketQuote.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.MarketQuote class" Url="html/T-CoinpaprikaApi.Models.MarketQuote.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.NameSymbolPair class" Url="html/AllMembers.T-CoinpaprikaApi.Models.NameSymbolPair.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.NameSymbolPair class" Url="html/T-CoinpaprikaApi.Models.NameSymbolPair.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.OhlcvItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.OhlcvItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.OhlcvItem class" Url="html/T-CoinpaprikaApi.Models.OhlcvItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PersonLink class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonLink.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PersonLink class" Url="html/T-CoinpaprikaApi.Models.PersonLink.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PersonLinks class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonLinks.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PersonLinks class" Url="html/T-CoinpaprikaApi.Models.PersonLinks.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PersonPosition class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonPosition.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PersonPosition class" Url="html/T-CoinpaprikaApi.Models.PersonPosition.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PersonResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PersonResponse class" Url="html/T-CoinpaprikaApi.Models.PersonResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PriceConverterResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PriceConverterResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PriceConverterResponse class" Url="html/T-CoinpaprikaApi.Models.PriceConverterResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PriceVolume24hPair class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PriceVolume24hPair.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.PriceVolume24hPair class" Url="html/T-CoinpaprikaApi.Models.PriceVolume24hPair.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.QuoteData class" Url="html/AllMembers.T-CoinpaprikaApi.Models.QuoteData.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.QuoteData class" Url="html/T-CoinpaprikaApi.Models.QuoteData.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchCurrency class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchCurrency.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchCurrency class" Url="html/T-CoinpaprikaApi.Models.SearchCurrency.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchExchange class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchExchange.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchExchange class" Url="html/T-CoinpaprikaApi.Models.SearchExchange.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchIco class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchIco.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchIco class" Url="html/T-CoinpaprikaApi.Models.SearchIco.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchPerson class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchPerson.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchPerson class" Url="html/T-CoinpaprikaApi.Models.SearchPerson.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchResponse class" Url="html/T-CoinpaprikaApi.Models.SearchResponse.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchTag class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchTag.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.SearchTag class" Url="html/T-CoinpaprikaApi.Models.SearchTag.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.TagItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.TagItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.TagItem class" Url="html/T-CoinpaprikaApi.Models.TagItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.TickerItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickerItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.TickerItem class" Url="html/T-CoinpaprikaApi.Models.TickerItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.TickerQuote class" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickerQuote.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.TickerQuote class" Url="html/T-CoinpaprikaApi.Models.TickerQuote.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.TickItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Models.TickItem class" Url="html/T-CoinpaprikaApi.Models.TickItem.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Properties namespace" Url="html/N-CoinpaprikaApi.Properties.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Properties.Resources class" Url="html/AllMembers.T-CoinpaprikaApi.Properties.Resources.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Properties.Resources class" Url="html/T-CoinpaprikaApi.Properties.Resources.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Types namespace" Url="html/N-CoinpaprikaApi.Types.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Types.SearchCategory enumeration" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+  <HelpKINode Title="CoinpaprikaApi.Types.TickerInterval enumeration" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="CoinpaprikaClient class" Url="html/AllMembers.T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+  <HelpKINode Title="CoinpaprikaClient class" Url="html/T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+  <HelpKINode Title="CoinpaprikaClient class">
+    <HelpKINode Title="about CoinpaprikaClient class" Url="html/T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+    <HelpKINode Title="constructor" Url="html/M-CoinpaprikaApi.CoinpaprikaClient.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinpaprikaClient.CoinpaprikaClient constructor" Url="html/M-CoinpaprikaApi.CoinpaprikaClient.-ctor.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Coins property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Coins.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Contracts property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Contracts.htm" />
+  <HelpKINode Title="CoinpaprikaClient.CPRestClient property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.CPRestClient.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Exchanges property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Exchanges.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Global property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Global.htm" />
+  <HelpKINode Title="CoinpaprikaClient.IsCacheEnabled property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.IsCacheEnabled.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Key property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Key.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Persons property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Persons.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Tags property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tags.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Tickers property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tickers.htm" />
+  <HelpKINode Title="CoinpaprikaClient.Tools property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tools.htm" />
+  <HelpKINode Title="coinpaprika_logo property" Url="html/P-CoinpaprikaApi.Properties.Resources.coinpaprika_logo.htm" />
+  <HelpKINode Title="CoinResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinResponse.htm" />
+  <HelpKINode Title="CoinResponse class" Url="html/T-CoinpaprikaApi.Models.CoinResponse.htm" />
+  <HelpKINode Title="CoinResponse class">
+    <HelpKINode Title="about CoinResponse class" Url="html/T-CoinpaprikaApi.Models.CoinResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinResponse.Description property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Description.htm" />
+  <HelpKINode Title="CoinResponse.DevelopmentStatus property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.DevelopmentStatus.htm" />
+  <HelpKINode Title="CoinResponse.FirstDataAt property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.FirstDataAt.htm" />
+  <HelpKINode Title="CoinResponse.HardwareWallet property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.HardwareWallet.htm" />
+  <HelpKINode Title="CoinResponse.HashAlgorithm property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.HashAlgorithm.htm" />
+  <HelpKINode Title="CoinResponse.Id property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Id.htm" />
+  <HelpKINode Title="CoinResponse.IsActive property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.IsActive.htm" />
+  <HelpKINode Title="CoinResponse.IsNew property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.IsNew.htm" />
+  <HelpKINode Title="CoinResponse.LastDataAt property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.LastDataAt.htm" />
+  <HelpKINode Title="CoinResponse.Links property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Links.htm" />
+  <HelpKINode Title="CoinResponse.LinksExtended property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.LinksExtended.htm" />
+  <HelpKINode Title="CoinResponse.Logo property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Logo.htm" />
+  <HelpKINode Title="CoinResponse.Message property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Message.htm" />
+  <HelpKINode Title="CoinResponse.Name property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Name.htm" />
+  <HelpKINode Title="CoinResponse.OpenSource property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.OpenSource.htm" />
+  <HelpKINode Title="CoinResponse.OrgStructure property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.OrgStructure.htm" />
+  <HelpKINode Title="CoinResponse.ProofType property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.ProofType.htm" />
+  <HelpKINode Title="CoinResponse.Rank property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Rank.htm" />
+  <HelpKINode Title="CoinResponse.StartedAt property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.StartedAt.htm" />
+  <HelpKINode Title="CoinResponse.Symbol property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Symbol.htm" />
+  <HelpKINode Title="CoinResponse.Tags property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Tags.htm" />
+  <HelpKINode Title="CoinResponse.Team property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Team.htm" />
+  <HelpKINode Title="CoinResponse.Type property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Type.htm" />
+  <HelpKINode Title="CoinResponse.Whitepaper property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Whitepaper.htm" />
+  <HelpKINode Title="Coins property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Coins.htm" />
+  <HelpKINode Title="Coins property" Url="html/P-CoinpaprikaApi.Models.TagItem.Coins.htm" />
+  <HelpKINode Title="CoinsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.CoinsImp.htm" />
+  <HelpKINode Title="CoinsImp class" Url="html/T-CoinpaprikaApi.Imp.CoinsImp.htm" />
+  <HelpKINode Title="CoinsImp class">
+    <HelpKINode Title="about CoinsImp class" Url="html/T-CoinpaprikaApi.Imp.CoinsImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.CoinsImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.CoinsImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinsImp.GetCoinAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinAsync.htm" />
+  <HelpKINode Title="CoinsImp.GetCoinEventsAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinEventsAsync.htm" />
+  <HelpKINode Title="CoinsImp.GetCoinExchangesAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinExchangesAsync.htm" />
+  <HelpKINode Title="CoinsImp.GetCoinMarketsAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinMarketsAsync.htm" />
+  <HelpKINode Title="CoinsImp.GetCoinOhlcHistoricAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcHistoricAsync.htm" />
+  <HelpKINode Title="CoinsImp.GetCoinOhlcLatestAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcLatestAsync.htm" />
+  <HelpKINode Title="CoinsImp.GetCoinOhlcTodayAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcTodayAsync.htm" />
+  <HelpKINode Title="CoinsImp.GetCoinsAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinsAsync.htm" />
+  <HelpKINode Title="CoinsImp.GetCoinTweetsAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinTweetsAsync.htm" />
+  <HelpKINode Title="CoinSymbol property" Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinSymbol.htm" />
+  <HelpKINode Title="CoinTagItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTagItem.htm" />
+  <HelpKINode Title="CoinTagItem class" Url="html/T-CoinpaprikaApi.Models.CoinTagItem.htm" />
+  <HelpKINode Title="CoinTagItem class">
+    <HelpKINode Title="about CoinTagItem class" Url="html/T-CoinpaprikaApi.Models.CoinTagItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTagItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinTagItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinTagItem.CoinCounter property" Url="html/P-CoinpaprikaApi.Models.CoinTagItem.CoinCounter.htm" />
+  <HelpKINode Title="CoinTagItem.IcoCounter property" Url="html/P-CoinpaprikaApi.Models.CoinTagItem.IcoCounter.htm" />
+  <HelpKINode Title="CoinTagItem.Id property" Url="html/P-CoinpaprikaApi.Models.CoinTagItem.Id.htm" />
+  <HelpKINode Title="CoinTagItem.Name property" Url="html/P-CoinpaprikaApi.Models.CoinTagItem.Name.htm" />
+  <HelpKINode Title="CoinTeamItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTeamItem.htm" />
+  <HelpKINode Title="CoinTeamItem class" Url="html/T-CoinpaprikaApi.Models.CoinTeamItem.htm" />
+  <HelpKINode Title="CoinTeamItem class">
+    <HelpKINode Title="about CoinTeamItem class" Url="html/T-CoinpaprikaApi.Models.CoinTeamItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTeamItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinTeamItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinTeamItem.Id property" Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Id.htm" />
+  <HelpKINode Title="CoinTeamItem.Name property" Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Name.htm" />
+  <HelpKINode Title="CoinTeamItem.Position property" Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Position.htm" />
+  <HelpKINode Title="CoinTweetItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTweetItem.htm" />
+  <HelpKINode Title="CoinTweetItem class" Url="html/T-CoinpaprikaApi.Models.CoinTweetItem.htm" />
+  <HelpKINode Title="CoinTweetItem class">
+    <HelpKINode Title="about CoinTweetItem class" Url="html/T-CoinpaprikaApi.Models.CoinTweetItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTweetItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinTweetItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinTweetItem.Date property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.Date.htm" />
+  <HelpKINode Title="CoinTweetItem.IsRetweet property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.IsRetweet.htm" />
+  <HelpKINode Title="CoinTweetItem.LikeCount property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.LikeCount.htm" />
+  <HelpKINode Title="CoinTweetItem.MediaLink property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.MediaLink.htm" />
+  <HelpKINode Title="CoinTweetItem.RetweetCount property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.RetweetCount.htm" />
+  <HelpKINode Title="CoinTweetItem.Status property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.Status.htm" />
+  <HelpKINode Title="CoinTweetItem.StatusId property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.StatusId.htm" />
+  <HelpKINode Title="CoinTweetItem.StatusLink property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.StatusLink.htm" />
+  <HelpKINode Title="CoinTweetItem.UserImageLink property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.UserImageLink.htm" />
+  <HelpKINode Title="CoinTweetItem.UserName property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.UserName.htm" />
+  <HelpKINode Title="CoinTweetItem.YoutubeLink property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.YoutubeLink.htm" />
+  <HelpKINode Title="CoinWhitepaper class" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinWhitepaper.htm" />
+  <HelpKINode Title="CoinWhitepaper class" Url="html/T-CoinpaprikaApi.Models.CoinWhitepaper.htm" />
+  <HelpKINode Title="CoinWhitepaper class">
+    <HelpKINode Title="about CoinWhitepaper class" Url="html/T-CoinpaprikaApi.Models.CoinWhitepaper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinWhitepaper.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinWhitepaper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoinWhitepaper.Link property" Url="html/P-CoinpaprikaApi.Models.CoinWhitepaper.Link.htm" />
+  <HelpKINode Title="CoinWhitepaper.Thumbnail property" Url="html/P-CoinpaprikaApi.Models.CoinWhitepaper.Thumbnail.htm" />
+  <HelpKINode Title="ConfidenceScore property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ConfidenceScore.htm" />
+  <HelpKINode Title="Constants class" Url="html/AllMembers.T-CoinpaprikaApi.Constants.htm" />
+  <HelpKINode Title="Constants class" Url="html/T-CoinpaprikaApi.Constants.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="about Constants class" Url="html/T-CoinpaprikaApi.Constants.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Constants.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-CoinpaprikaApi.Constants.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.API_BASE_URL field" Url="html/F-CoinpaprikaApi.Constants.API_BASE_URL.htm" />
+  <HelpKINode Title="Constants.API_LOGO_128X128_PNG field" Url="html/F-CoinpaprikaApi.Constants.API_LOGO_128X128_PNG.htm" />
+  <HelpKINode Title="Constants.API_MIN_CACHE_TIME_MS field" Url="html/F-CoinpaprikaApi.Constants.API_MIN_CACHE_TIME_MS.htm" />
+  <HelpKINode Title="Constants.API_NAME field" Url="html/F-CoinpaprikaApi.Constants.API_NAME.htm" />
+  <HelpKINode Title="Constants.API_PRO_BASE_URL field" Url="html/F-CoinpaprikaApi.Constants.API_PRO_BASE_URL.htm" />
+  <HelpKINode Title="Constants.API_VERSION field" Url="html/F-CoinpaprikaApi.Constants.API_VERSION.htm" />
+  <HelpKINode Title="Constants.API_VERSION_FULL field" Url="html/F-CoinpaprikaApi.Constants.API_VERSION_FULL.htm" />
+  <HelpKINode Title="ContractItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.ContractItem.htm" />
+  <HelpKINode Title="ContractItem class" Url="html/T-CoinpaprikaApi.Models.ContractItem.htm" />
+  <HelpKINode Title="ContractItem class">
+    <HelpKINode Title="about ContractItem class" Url="html/T-CoinpaprikaApi.Models.ContractItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.ContractItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.ContractItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContractItem.Active property" Url="html/P-CoinpaprikaApi.Models.ContractItem.Active.htm" />
+  <HelpKINode Title="ContractItem.Address property" Url="html/P-CoinpaprikaApi.Models.ContractItem.Address.htm" />
+  <HelpKINode Title="ContractItem.Id property" Url="html/P-CoinpaprikaApi.Models.ContractItem.Id.htm" />
+  <HelpKINode Title="ContractItem.Type property" Url="html/P-CoinpaprikaApi.Models.ContractItem.Type.htm" />
+  <HelpKINode Title="Contracts property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Contracts.htm" />
+  <HelpKINode Title="ContractsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ContractsImp.htm" />
+  <HelpKINode Title="ContractsImp class" Url="html/T-CoinpaprikaApi.Imp.ContractsImp.htm" />
+  <HelpKINode Title="ContractsImp class">
+    <HelpKINode Title="about ContractsImp class" Url="html/T-CoinpaprikaApi.Imp.ContractsImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ContractsImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.ContractsImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ContractsImp.GetContractsAsync method" Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetContractsAsync.htm" />
+  <HelpKINode Title="ContractsImp.GetHistoricalTicksByContractAddressAsync method" Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetHistoricalTicksByContractAddressAsync.htm" />
+  <HelpKINode Title="ContractsImp.GetPlatformsAsync method" Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetPlatformsAsync.htm" />
+  <HelpKINode Title="ContractsImp.GetTickerByContractAddressAsync method" Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetTickerByContractAddressAsync.htm" />
+  <HelpKINode Title="Contributors property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Contributors.htm" />
+  <HelpKINode Title="CPRestClient property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.CPRestClient.htm" />
+  <HelpKINode Title="CryptocurrenciesNumber property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.CryptocurrenciesNumber.htm" />
+  <HelpKINode Title="Culture property" Url="html/P-CoinpaprikaApi.Properties.Resources.Culture.htm" />
+  <HelpKINode Title="currencies enumeration member" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+  <HelpKINode Title="currencies field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.currencies.htm" />
+  <HelpKINode Title="Currencies property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Currencies.htm" />
+  <HelpKINode Title="Currencies property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.Currencies.htm" />
+  <HelpKINode Title="CurrentMonth property" Url="html/P-CoinpaprikaApi.Models.KeyUsage.CurrentMonth.htm" />
+  <HelpKINode Title="d1 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="d1 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d1.htm" />
+  <HelpKINode Title="d14 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="d14 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d14.htm" />
+  <HelpKINode Title="d30 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="d30 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d30.htm" />
+  <HelpKINode Title="d365 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="d365 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d365.htm" />
+  <HelpKINode Title="d7 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="d7 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d7.htm" />
+  <HelpKINode Title="d90 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="d90 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d90.htm" />
+  <HelpKINode Title="Date property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Date.htm" />
+  <HelpKINode Title="Date property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.Date.htm" />
+  <HelpKINode Title="DateTo property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.DateTo.htm" />
+  <HelpKINode Title="Description property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Description.htm" />
+  <HelpKINode Title="Description property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Description.htm" />
+  <HelpKINode Title="Description property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Description.htm" />
+  <HelpKINode Title="Description property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Description.htm" />
+  <HelpKINode Title="Description property" Url="html/P-CoinpaprikaApi.Models.TagItem.Description.htm" />
+  <HelpKINode Title="DevelopmentStatus property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.DevelopmentStatus.htm" />
+  <HelpKINode Title="Error property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Error.htm" />
+  <HelpKINode Title="ExchangeFiat class" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeFiat.htm" />
+  <HelpKINode Title="ExchangeFiat class" Url="html/T-CoinpaprikaApi.Models.ExchangeFiat.htm" />
+  <HelpKINode Title="ExchangeFiat class">
+    <HelpKINode Title="about ExchangeFiat class" Url="html/T-CoinpaprikaApi.Models.ExchangeFiat.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeFiat.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.ExchangeFiat.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExchangeFiat.Name property" Url="html/P-CoinpaprikaApi.Models.ExchangeFiat.Name.htm" />
+  <HelpKINode Title="ExchangeFiat.Symbol property" Url="html/P-CoinpaprikaApi.Models.ExchangeFiat.Symbol.htm" />
+  <HelpKINode Title="ExchangeId property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.ExchangeId.htm" />
+  <HelpKINode Title="ExchangeItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeItem.htm" />
+  <HelpKINode Title="ExchangeItem class" Url="html/T-CoinpaprikaApi.Models.ExchangeItem.htm" />
+  <HelpKINode Title="ExchangeItem class">
+    <HelpKINode Title="about ExchangeItem class" Url="html/T-CoinpaprikaApi.Models.ExchangeItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.ExchangeItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExchangeItem.Active property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Active.htm" />
+  <HelpKINode Title="ExchangeItem.AdjustedRank property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.AdjustedRank.htm" />
+  <HelpKINode Title="ExchangeItem.ApiStatus property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ApiStatus.htm" />
+  <HelpKINode Title="ExchangeItem.ConfidenceScore property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ConfidenceScore.htm" />
+  <HelpKINode Title="ExchangeItem.Currencies property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Currencies.htm" />
+  <HelpKINode Title="ExchangeItem.Description property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Description.htm" />
+  <HelpKINode Title="ExchangeItem.Fiats property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Fiats.htm" />
+  <HelpKINode Title="ExchangeItem.Id property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Id.htm" />
+  <HelpKINode Title="ExchangeItem.LastUpdated property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.LastUpdated.htm" />
+  <HelpKINode Title="ExchangeItem.Links property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Links.htm" />
+  <HelpKINode Title="ExchangeItem.Markets property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Markets.htm" />
+  <HelpKINode Title="ExchangeItem.MarketsDataFetched property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.MarketsDataFetched.htm" />
+  <HelpKINode Title="ExchangeItem.Message property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Message.htm" />
+  <HelpKINode Title="ExchangeItem.Name property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Name.htm" />
+  <HelpKINode Title="ExchangeItem.Quotes property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Quotes.htm" />
+  <HelpKINode Title="ExchangeItem.ReportedRank property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ReportedRank.htm" />
+  <HelpKINode Title="ExchangeItem.SessionsPerMonth property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.SessionsPerMonth.htm" />
+  <HelpKINode Title="ExchangeItem.WebsiteStatus property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.WebsiteStatus.htm" />
+  <HelpKINode Title="ExchangeMarketItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeMarketItem.htm" />
+  <HelpKINode Title="ExchangeMarketItem class" Url="html/T-CoinpaprikaApi.Models.ExchangeMarketItem.htm" />
+  <HelpKINode Title="ExchangeMarketItem class">
+    <HelpKINode Title="about ExchangeMarketItem class" Url="html/T-CoinpaprikaApi.Models.ExchangeMarketItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeMarketItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.ExchangeMarketItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExchangeMarketItem.BaseCurrencyId property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.BaseCurrencyId.htm" />
+  <HelpKINode Title="ExchangeMarketItem.BaseCurrencyName property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.BaseCurrencyName.htm" />
+  <HelpKINode Title="ExchangeMarketItem.Category property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Category.htm" />
+  <HelpKINode Title="ExchangeMarketItem.FeeType property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.FeeType.htm" />
+  <HelpKINode Title="ExchangeMarketItem.LastUpdated property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.LastUpdated.htm" />
+  <HelpKINode Title="ExchangeMarketItem.MarketUrl property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.MarketUrl.htm" />
+  <HelpKINode Title="ExchangeMarketItem.Outlier property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Outlier.htm" />
+  <HelpKINode Title="ExchangeMarketItem.Pair property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Pair.htm" />
+  <HelpKINode Title="ExchangeMarketItem.QuoteCurrencyId property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.QuoteCurrencyId.htm" />
+  <HelpKINode Title="ExchangeMarketItem.QuoteCurrencyName property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.QuoteCurrencyName.htm" />
+  <HelpKINode Title="ExchangeMarketItem.Quotes property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Quotes.htm" />
+  <HelpKINode Title="ExchangeMarketItem.ReportedVolume24HShare property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.ReportedVolume24HShare.htm" />
+  <HelpKINode Title="ExchangeMarketItem.TrustScore property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.TrustScore.htm" />
+  <HelpKINode Title="ExchangeName property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.ExchangeName.htm" />
+  <HelpKINode Title="exchanges enumeration member" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+  <HelpKINode Title="exchanges field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.exchanges.htm" />
+  <HelpKINode Title="Exchanges property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Exchanges.htm" />
+  <HelpKINode Title="Exchanges property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.Exchanges.htm" />
+  <HelpKINode Title="ExchangesImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ExchangesImp.htm" />
+  <HelpKINode Title="ExchangesImp class" Url="html/T-CoinpaprikaApi.Imp.ExchangesImp.htm" />
+  <HelpKINode Title="ExchangesImp class">
+    <HelpKINode Title="about ExchangesImp class" Url="html/T-CoinpaprikaApi.Imp.ExchangesImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ExchangesImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.ExchangesImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExchangesImp.GetExchangeAsync method" Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangeAsync.htm" />
+  <HelpKINode Title="ExchangesImp.GetExchangeMarketsAsync method" Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangeMarketsAsync.htm" />
+  <HelpKINode Title="ExchangesImp.GetExchangesAsync method" Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangesAsync.htm" />
+  <HelpKINode Title="Explorer property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Explorer.htm" />
+  <HelpKINode Title="Facebook property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Facebook.htm" />
+  <HelpKINode Title="FeeType property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.FeeType.htm" />
+  <HelpKINode Title="FeeType property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.FeeType.htm" />
+  <HelpKINode Title="Fiats property" Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Fiats.htm" />
+  <HelpKINode Title="Fiats property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Fiats.htm" />
+  <HelpKINode Title="FirstDataAt property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.FirstDataAt.htm" />
+  <HelpKINode Title="FirstDataAt property" Url="html/P-CoinpaprikaApi.Models.TickerItem.FirstDataAt.htm" />
+  <HelpKINode Title="Followers property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Followers.htm" />
+  <HelpKINode Title="Followers property" Url="html/P-CoinpaprikaApi.Models.PersonLink.Followers.htm" />
+  <HelpKINode Title="GetCoinAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinAsync.htm" />
+  <HelpKINode Title="GetCoinEventsAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinEventsAsync.htm" />
+  <HelpKINode Title="GetCoinExchangesAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinExchangesAsync.htm" />
+  <HelpKINode Title="GetCoinMarketsAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinMarketsAsync.htm" />
+  <HelpKINode Title="GetCoinOhlcHistoricAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcHistoricAsync.htm" />
+  <HelpKINode Title="GetCoinOhlcLatestAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcLatestAsync.htm" />
+  <HelpKINode Title="GetCoinOhlcTodayAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcTodayAsync.htm" />
+  <HelpKINode Title="GetCoinsAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinsAsync.htm" />
+  <HelpKINode Title="GetCoinTweetsAsync method" Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinTweetsAsync.htm" />
+  <HelpKINode Title="GetContractsAsync method" Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetContractsAsync.htm" />
+  <HelpKINode Title="GetExchangeAsync method" Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangeAsync.htm" />
+  <HelpKINode Title="GetExchangeMarketsAsync method" Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangeMarketsAsync.htm" />
+  <HelpKINode Title="GetExchangesAsync method" Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangesAsync.htm" />
+  <HelpKINode Title="GetGlobalAsync method" Url="html/M-CoinpaprikaApi.Imp.GlobalImp.GetGlobalAsync.htm" />
+  <HelpKINode Title="GetHistoricalTicksAsync method" Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetHistoricalTicksAsync.htm" />
+  <HelpKINode Title="GetHistoricalTicksByContractAddressAsync method" Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetHistoricalTicksByContractAddressAsync.htm" />
+  <HelpKINode Title="GetKeyInfoAsync method" Url="html/M-CoinpaprikaApi.Imp.KeyImp.GetKeyInfoAsync.htm" />
+  <HelpKINode Title="GetPersonAsync method" Url="html/M-CoinpaprikaApi.Imp.PersonsImp.GetPersonAsync.htm" />
+  <HelpKINode Title="GetPlatformsAsync method" Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetPlatformsAsync.htm" />
+  <HelpKINode Title="GetTagAsync method" Url="html/M-CoinpaprikaApi.Imp.TagsImp.GetTagAsync.htm" />
+  <HelpKINode Title="GetTagsAsync method" Url="html/M-CoinpaprikaApi.Imp.TagsImp.GetTagsAsync.htm" />
+  <HelpKINode Title="GetTickerAsync method" Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetTickerAsync.htm" />
+  <HelpKINode Title="GetTickerByContractAddressAsync method" Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetTickerByContractAddressAsync.htm" />
+  <HelpKINode Title="GetTickersAsync method" Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetTickersAsync.htm" />
+  <HelpKINode Title="Github property" Url="html/P-CoinpaprikaApi.Models.PersonLinks.Github.htm" />
+  <HelpKINode Title="Global property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Global.htm" />
+  <HelpKINode Title="GlobalImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.GlobalImp.htm" />
+  <HelpKINode Title="GlobalImp class" Url="html/T-CoinpaprikaApi.Imp.GlobalImp.htm" />
+  <HelpKINode Title="GlobalImp class">
+    <HelpKINode Title="about GlobalImp class" Url="html/T-CoinpaprikaApi.Imp.GlobalImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.GlobalImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.GlobalImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GlobalImp.GetGlobalAsync method" Url="html/M-CoinpaprikaApi.Imp.GlobalImp.GetGlobalAsync.htm" />
+  <HelpKINode Title="GlobalResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.GlobalResponse.htm" />
+  <HelpKINode Title="GlobalResponse class" Url="html/T-CoinpaprikaApi.Models.GlobalResponse.htm" />
+  <HelpKINode Title="GlobalResponse class">
+    <HelpKINode Title="about GlobalResponse class" Url="html/T-CoinpaprikaApi.Models.GlobalResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.GlobalResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.GlobalResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GlobalResponse.BitcoinDominancePercentage property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.BitcoinDominancePercentage.htm" />
+  <HelpKINode Title="GlobalResponse.CryptocurrenciesNumber property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.CryptocurrenciesNumber.htm" />
+  <HelpKINode Title="GlobalResponse.LastUpdated property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.LastUpdated.htm" />
+  <HelpKINode Title="GlobalResponse.MarketCapAthDate property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapAthDate.htm" />
+  <HelpKINode Title="GlobalResponse.MarketCapAthValue property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapAthValue.htm" />
+  <HelpKINode Title="GlobalResponse.MarketCapChange24H property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapChange24H.htm" />
+  <HelpKINode Title="GlobalResponse.MarketCapUsd property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapUsd.htm" />
+  <HelpKINode Title="GlobalResponse.Volume24HAthDate property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HAthDate.htm" />
+  <HelpKINode Title="GlobalResponse.Volume24HAthValue property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HAthValue.htm" />
+  <HelpKINode Title="GlobalResponse.Volume24HChange24H property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HChange24H.htm" />
+  <HelpKINode Title="GlobalResponse.Volume24HPercentFromAth property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HPercentFromAth.htm" />
+  <HelpKINode Title="GlobalResponse.Volume24HPercentToAth property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HPercentToAth.htm" />
+  <HelpKINode Title="GlobalResponse.Volume24HUsd property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HUsd.htm" />
+  <HelpKINode Title="h1 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="h1 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h1.htm" />
+  <HelpKINode Title="h12 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="h12 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h12.htm" />
+  <HelpKINode Title="h2 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="h2 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h2.htm" />
+  <HelpKINode Title="h24 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="h24 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h24.htm" />
+  <HelpKINode Title="h3 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="h3 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h3.htm" />
+  <HelpKINode Title="h6 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="h6 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h6.htm" />
+  <HelpKINode Title="HardwareWallet property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.HardwareWallet.htm" />
+  <HelpKINode Title="HashAlgorithm property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.HashAlgorithm.htm" />
+  <HelpKINode Title="High property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.High.htm" />
+  <HelpKINode Title="IcoCounter property" Url="html/P-CoinpaprikaApi.Models.CoinTagItem.IcoCounter.htm" />
+  <HelpKINode Title="IcoCounter property" Url="html/P-CoinpaprikaApi.Models.SearchTag.IcoCounter.htm" />
+  <HelpKINode Title="IcoCounter property" Url="html/P-CoinpaprikaApi.Models.TagItem.IcoCounter.htm" />
+  <HelpKINode Title="icos enumeration member" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+  <HelpKINode Title="icos field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.icos.htm" />
+  <HelpKINode Title="Icos property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.Icos.htm" />
+  <HelpKINode Title="Icos property" Url="html/P-CoinpaprikaApi.Models.TagItem.Icos.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.CoinTagItem.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.ContractItem.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.SearchExchange.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.SearchIco.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.SearchPerson.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.SearchTag.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.TagItem.Id.htm" />
+  <HelpKINode Title="Id property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Id.htm" />
+  <HelpKINode Title="IsActive property" Url="html/P-CoinpaprikaApi.Models.CoinItem.IsActive.htm" />
+  <HelpKINode Title="IsActive property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.IsActive.htm" />
+  <HelpKINode Title="IsActive property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.IsActive.htm" />
+  <HelpKINode Title="IsCacheEnabled property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.IsCacheEnabled.htm" />
+  <HelpKINode Title="IsConference property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.IsConference.htm" />
+  <HelpKINode Title="IsNew property" Url="html/P-CoinpaprikaApi.Models.CoinItem.IsNew.htm" />
+  <HelpKINode Title="IsNew property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.IsNew.htm" />
+  <HelpKINode Title="IsNew property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.IsNew.htm" />
+  <HelpKINode Title="IsNew property" Url="html/P-CoinpaprikaApi.Models.SearchIco.IsNew.htm" />
+  <HelpKINode Title="IsRetweet property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.IsRetweet.htm" />
+  <HelpKINode Title="Key property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Key.htm" />
+  <HelpKINode Title="KeyImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.KeyImp.htm" />
+  <HelpKINode Title="KeyImp class" Url="html/T-CoinpaprikaApi.Imp.KeyImp.htm" />
+  <HelpKINode Title="KeyImp class">
+    <HelpKINode Title="about KeyImp class" Url="html/T-CoinpaprikaApi.Imp.KeyImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.KeyImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.KeyImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyImp.GetKeyInfoAsync method" Url="html/M-CoinpaprikaApi.Imp.KeyImp.GetKeyInfoAsync.htm" />
+  <HelpKINode Title="KeyInfoResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyInfoResponse.htm" />
+  <HelpKINode Title="KeyInfoResponse class" Url="html/T-CoinpaprikaApi.Models.KeyInfoResponse.htm" />
+  <HelpKINode Title="KeyInfoResponse class">
+    <HelpKINode Title="about KeyInfoResponse class" Url="html/T-CoinpaprikaApi.Models.KeyInfoResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyInfoResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.KeyInfoResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyInfoResponse.Plan property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.Plan.htm" />
+  <HelpKINode Title="KeyInfoResponse.PlanStartedAt property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PlanStartedAt.htm" />
+  <HelpKINode Title="KeyInfoResponse.PlanStatus property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PlanStatus.htm" />
+  <HelpKINode Title="KeyInfoResponse.PortalUrl property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PortalUrl.htm" />
+  <HelpKINode Title="KeyInfoResponse.Usage property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.Usage.htm" />
+  <HelpKINode Title="KeyUsage class" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyUsage.htm" />
+  <HelpKINode Title="KeyUsage class" Url="html/T-CoinpaprikaApi.Models.KeyUsage.htm" />
+  <HelpKINode Title="KeyUsage class">
+    <HelpKINode Title="about KeyUsage class" Url="html/T-CoinpaprikaApi.Models.KeyUsage.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyUsage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.KeyUsage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyUsage.CurrentMonth property" Url="html/P-CoinpaprikaApi.Models.KeyUsage.CurrentMonth.htm" />
+  <HelpKINode Title="KeyUsage.Message property" Url="html/P-CoinpaprikaApi.Models.KeyUsage.Message.htm" />
+  <HelpKINode Title="KeyUsageCurrMonth class" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm" />
+  <HelpKINode Title="KeyUsageCurrMonth class" Url="html/T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm" />
+  <HelpKINode Title="KeyUsageCurrMonth class">
+    <HelpKINode Title="about KeyUsageCurrMonth class" Url="html/T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KeyUsageCurrMonth.RequestsLeft property" Url="html/P-CoinpaprikaApi.Models.KeyUsageCurrMonth.RequestsLeft.htm" />
+  <HelpKINode Title="KeyUsageCurrMonth.RequestsMade property" Url="html/P-CoinpaprikaApi.Models.KeyUsageCurrMonth.RequestsMade.htm" />
+  <HelpKINode Title="LastDataAt property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.LastDataAt.htm" />
+  <HelpKINode Title="LastUpdated property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.LastUpdated.htm" />
+  <HelpKINode Title="LastUpdated property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.LastUpdated.htm" />
+  <HelpKINode Title="LastUpdated property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.LastUpdated.htm" />
+  <HelpKINode Title="LastUpdated property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.LastUpdated.htm" />
+  <HelpKINode Title="LastUpdated property" Url="html/P-CoinpaprikaApi.Models.TickerItem.LastUpdated.htm" />
+  <HelpKINode Title="LikeCount property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.LikeCount.htm" />
+  <HelpKINode Title="Link property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Link.htm" />
+  <HelpKINode Title="Link property" Url="html/P-CoinpaprikaApi.Models.CoinWhitepaper.Link.htm" />
+  <HelpKINode Title="Linkedin property" Url="html/P-CoinpaprikaApi.Models.PersonLinks.Linkedin.htm" />
+  <HelpKINode Title="Links property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Links.htm" />
+  <HelpKINode Title="Links property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Links.htm" />
+  <HelpKINode Title="Links property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Links.htm" />
+  <HelpKINode Title="LinksExtended property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.LinksExtended.htm" />
+  <HelpKINode Title="Logo property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Logo.htm" />
+  <HelpKINode Title="Low property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Low.htm" />
+  <HelpKINode Title="m10 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="m10 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m10.htm" />
+  <HelpKINode Title="m15 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="m15 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m15.htm" />
+  <HelpKINode Title="m30 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="m30 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m30.htm" />
+  <HelpKINode Title="m45 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="m45 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m45.htm" />
+  <HelpKINode Title="m5 enumeration member" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="m5 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m5.htm" />
+  <HelpKINode Title="MarketCap property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.MarketCap.htm" />
+  <HelpKINode Title="MarketCap property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.MarketCap.htm" />
+  <HelpKINode Title="MarketCap property" Url="html/P-CoinpaprikaApi.Models.TickItem.MarketCap.htm" />
+  <HelpKINode Title="MarketCapAthDate property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapAthDate.htm" />
+  <HelpKINode Title="MarketCapAthValue property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapAthValue.htm" />
+  <HelpKINode Title="MarketCapChange24H property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapChange24H.htm" />
+  <HelpKINode Title="MarketCapChange24H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.MarketCapChange24H.htm" />
+  <HelpKINode Title="MarketCapUsd property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapUsd.htm" />
+  <HelpKINode Title="MarketQuote class" Url="html/AllMembers.T-CoinpaprikaApi.Models.MarketQuote.htm" />
+  <HelpKINode Title="MarketQuote class" Url="html/T-CoinpaprikaApi.Models.MarketQuote.htm" />
+  <HelpKINode Title="MarketQuote class">
+    <HelpKINode Title="about MarketQuote class" Url="html/T-CoinpaprikaApi.Models.MarketQuote.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.MarketQuote.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.MarketQuote.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MarketQuote.Price property" Url="html/P-CoinpaprikaApi.Models.MarketQuote.Price.htm" />
+  <HelpKINode Title="MarketQuote.Volume24H property" Url="html/P-CoinpaprikaApi.Models.MarketQuote.Volume24H.htm" />
+  <HelpKINode Title="Markets property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Markets.htm" />
+  <HelpKINode Title="MarketsDataFetched property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.MarketsDataFetched.htm" />
+  <HelpKINode Title="MarketUrl property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.MarketUrl.htm" />
+  <HelpKINode Title="MarketUrl property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.MarketUrl.htm" />
+  <HelpKINode Title="MaxSupply property" Url="html/P-CoinpaprikaApi.Models.TickerItem.MaxSupply.htm" />
+  <HelpKINode Title="MediaLink property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.MediaLink.htm" />
+  <HelpKINode Title="Medium property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Medium.htm" />
+  <HelpKINode Title="Medium property" Url="html/P-CoinpaprikaApi.Models.PersonLinks.Medium.htm" />
+  <HelpKINode Title="Message property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Message.htm" />
+  <HelpKINode Title="Message property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Message.htm" />
+  <HelpKINode Title="Message property" Url="html/P-CoinpaprikaApi.Models.KeyUsage.Message.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.CoinTagItem.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.ExchangeFiat.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.NameSymbolPair.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.SearchExchange.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.SearchIco.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.SearchPerson.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.SearchTag.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.TagItem.Name.htm" />
+  <HelpKINode Title="Name property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Name.htm" />
+  <HelpKINode Title="NameSymbolPair class" Url="html/AllMembers.T-CoinpaprikaApi.Models.NameSymbolPair.htm" />
+  <HelpKINode Title="NameSymbolPair class" Url="html/T-CoinpaprikaApi.Models.NameSymbolPair.htm" />
+  <HelpKINode Title="NameSymbolPair class">
+    <HelpKINode Title="about NameSymbolPair class" Url="html/T-CoinpaprikaApi.Models.NameSymbolPair.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.NameSymbolPair.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.NameSymbolPair.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NameSymbolPair.Name property" Url="html/P-CoinpaprikaApi.Models.NameSymbolPair.Name.htm" />
+  <HelpKINode Title="NameSymbolPair.Symbol property" Url="html/P-CoinpaprikaApi.Models.NameSymbolPair.Symbol.htm" />
+  <HelpKINode Title="OhlcvItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.OhlcvItem.htm" />
+  <HelpKINode Title="OhlcvItem class" Url="html/T-CoinpaprikaApi.Models.OhlcvItem.htm" />
+  <HelpKINode Title="OhlcvItem class">
+    <HelpKINode Title="about OhlcvItem class" Url="html/T-CoinpaprikaApi.Models.OhlcvItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.OhlcvItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.OhlcvItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OhlcvItem.Close property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Close.htm" />
+  <HelpKINode Title="OhlcvItem.High property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.High.htm" />
+  <HelpKINode Title="OhlcvItem.Low property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Low.htm" />
+  <HelpKINode Title="OhlcvItem.MarketCap property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.MarketCap.htm" />
+  <HelpKINode Title="OhlcvItem.Open property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Open.htm" />
+  <HelpKINode Title="OhlcvItem.TimeClose property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.TimeClose.htm" />
+  <HelpKINode Title="OhlcvItem.TimeOpen property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.TimeOpen.htm" />
+  <HelpKINode Title="OhlcvItem.Volume property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Volume.htm" />
+  <HelpKINode Title="Open property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Open.htm" />
+  <HelpKINode Title="OpenSource property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.OpenSource.htm" />
+  <HelpKINode Title="OrgStructure property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.OrgStructure.htm" />
+  <HelpKINode Title="Outlier property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Outlier.htm" />
+  <HelpKINode Title="Outlier property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Outlier.htm" />
+  <HelpKINode Title="Pair property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Pair.htm" />
+  <HelpKINode Title="Pair property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Pair.htm" />
+  <HelpKINode Title="people enumeration member" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+  <HelpKINode Title="people field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.people.htm" />
+  <HelpKINode Title="People property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.People.htm" />
+  <HelpKINode Title="PercentChange12H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange12H.htm" />
+  <HelpKINode Title="PercentChange15M property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange15M.htm" />
+  <HelpKINode Title="PercentChange1H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange1H.htm" />
+  <HelpKINode Title="PercentChange1Y property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange1Y.htm" />
+  <HelpKINode Title="PercentChange24H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange24H.htm" />
+  <HelpKINode Title="PercentChange30D property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange30D.htm" />
+  <HelpKINode Title="PercentChange30M property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange30M.htm" />
+  <HelpKINode Title="PercentChange6H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange6H.htm" />
+  <HelpKINode Title="PercentChange7D property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange7D.htm" />
+  <HelpKINode Title="PercentFromPriceAth property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentFromPriceAth.htm" />
+  <HelpKINode Title="PersonLink class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonLink.htm" />
+  <HelpKINode Title="PersonLink class" Url="html/T-CoinpaprikaApi.Models.PersonLink.htm" />
+  <HelpKINode Title="PersonLink class">
+    <HelpKINode Title="about PersonLink class" Url="html/T-CoinpaprikaApi.Models.PersonLink.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonLink.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.PersonLink.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PersonLink.Followers property" Url="html/P-CoinpaprikaApi.Models.PersonLink.Followers.htm" />
+  <HelpKINode Title="PersonLink.Url property" Url="html/P-CoinpaprikaApi.Models.PersonLink.Url.htm" />
+  <HelpKINode Title="PersonLinks class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonLinks.htm" />
+  <HelpKINode Title="PersonLinks class" Url="html/T-CoinpaprikaApi.Models.PersonLinks.htm" />
+  <HelpKINode Title="PersonLinks class">
+    <HelpKINode Title="about PersonLinks class" Url="html/T-CoinpaprikaApi.Models.PersonLinks.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonLinks.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.PersonLinks.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PersonLinks.Github property" Url="html/P-CoinpaprikaApi.Models.PersonLinks.Github.htm" />
+  <HelpKINode Title="PersonLinks.Linkedin property" Url="html/P-CoinpaprikaApi.Models.PersonLinks.Linkedin.htm" />
+  <HelpKINode Title="PersonLinks.Medium property" Url="html/P-CoinpaprikaApi.Models.PersonLinks.Medium.htm" />
+  <HelpKINode Title="PersonLinks.Twitter property" Url="html/P-CoinpaprikaApi.Models.PersonLinks.Twitter.htm" />
+  <HelpKINode Title="PersonPosition class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonPosition.htm" />
+  <HelpKINode Title="PersonPosition class" Url="html/T-CoinpaprikaApi.Models.PersonPosition.htm" />
+  <HelpKINode Title="PersonPosition class">
+    <HelpKINode Title="about PersonPosition class" Url="html/T-CoinpaprikaApi.Models.PersonPosition.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonPosition.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.PersonPosition.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PersonPosition.CoinId property" Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinId.htm" />
+  <HelpKINode Title="PersonPosition.CoinName property" Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinName.htm" />
+  <HelpKINode Title="PersonPosition.CoinSymbol property" Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinSymbol.htm" />
+  <HelpKINode Title="PersonPosition.PositionPosition property" Url="html/P-CoinpaprikaApi.Models.PersonPosition.PositionPosition.htm" />
+  <HelpKINode Title="PersonResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonResponse.htm" />
+  <HelpKINode Title="PersonResponse class" Url="html/T-CoinpaprikaApi.Models.PersonResponse.htm" />
+  <HelpKINode Title="PersonResponse class">
+    <HelpKINode Title="about PersonResponse class" Url="html/T-CoinpaprikaApi.Models.PersonResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.PersonResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PersonResponse.Description property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Description.htm" />
+  <HelpKINode Title="PersonResponse.Error property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Error.htm" />
+  <HelpKINode Title="PersonResponse.Id property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Id.htm" />
+  <HelpKINode Title="PersonResponse.Links property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Links.htm" />
+  <HelpKINode Title="PersonResponse.Name property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Name.htm" />
+  <HelpKINode Title="PersonResponse.Positions property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Positions.htm" />
+  <HelpKINode Title="PersonResponse.TeamsCount property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.TeamsCount.htm" />
+  <HelpKINode Title="Persons property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Persons.htm" />
+  <HelpKINode Title="PersonsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.PersonsImp.htm" />
+  <HelpKINode Title="PersonsImp class" Url="html/T-CoinpaprikaApi.Imp.PersonsImp.htm" />
+  <HelpKINode Title="PersonsImp class">
+    <HelpKINode Title="about PersonsImp class" Url="html/T-CoinpaprikaApi.Imp.PersonsImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.PersonsImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.PersonsImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PersonsImp.GetPersonAsync method" Url="html/M-CoinpaprikaApi.Imp.PersonsImp.GetPersonAsync.htm" />
+  <HelpKINode Title="Plan property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.Plan.htm" />
+  <HelpKINode Title="PlanStartedAt property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PlanStartedAt.htm" />
+  <HelpKINode Title="PlanStatus property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PlanStatus.htm" />
+  <HelpKINode Title="PortalUrl property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PortalUrl.htm" />
+  <HelpKINode Title="Position property" Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Position.htm" />
+  <HelpKINode Title="PositionPosition property" Url="html/P-CoinpaprikaApi.Models.PersonPosition.PositionPosition.htm" />
+  <HelpKINode Title="Positions property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.Positions.htm" />
+  <HelpKINode Title="Price property" Url="html/P-CoinpaprikaApi.Models.MarketQuote.Price.htm" />
+  <HelpKINode Title="Price property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.Price.htm" />
+  <HelpKINode Title="Price property" Url="html/P-CoinpaprikaApi.Models.PriceVolume24hPair.Price.htm" />
+  <HelpKINode Title="Price property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.Price.htm" />
+  <HelpKINode Title="Price property" Url="html/P-CoinpaprikaApi.Models.TickItem.Price.htm" />
+  <HelpKINode Title="PriceConvertAsync method" Url="html/M-CoinpaprikaApi.Imp.ToolsImp.PriceConvertAsync.htm" />
+  <HelpKINode Title="PriceConverterResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PriceConverterResponse.htm" />
+  <HelpKINode Title="PriceConverterResponse class" Url="html/T-CoinpaprikaApi.Models.PriceConverterResponse.htm" />
+  <HelpKINode Title="PriceConverterResponse class">
+    <HelpKINode Title="about PriceConverterResponse class" Url="html/T-CoinpaprikaApi.Models.PriceConverterResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PriceConverterResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.PriceConverterResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PriceConverterResponse.Amount property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.Amount.htm" />
+  <HelpKINode Title="PriceConverterResponse.BaseCurrencyId property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BaseCurrencyId.htm" />
+  <HelpKINode Title="PriceConverterResponse.BaseCurrencyName property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BaseCurrencyName.htm" />
+  <HelpKINode Title="PriceConverterResponse.BasePriceLastUpdated property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BasePriceLastUpdated.htm" />
+  <HelpKINode Title="PriceConverterResponse.Price property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.Price.htm" />
+  <HelpKINode Title="PriceConverterResponse.QuoteCurrencyId property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuoteCurrencyId.htm" />
+  <HelpKINode Title="PriceConverterResponse.QuoteCurrencyName property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuoteCurrencyName.htm" />
+  <HelpKINode Title="PriceConverterResponse.QuotePriceLastUpdated property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuotePriceLastUpdated.htm" />
+  <HelpKINode Title="PriceVolume24hPair class" Url="html/AllMembers.T-CoinpaprikaApi.Models.PriceVolume24hPair.htm" />
+  <HelpKINode Title="PriceVolume24hPair class" Url="html/T-CoinpaprikaApi.Models.PriceVolume24hPair.htm" />
+  <HelpKINode Title="PriceVolume24hPair class">
+    <HelpKINode Title="about PriceVolume24hPair class" Url="html/T-CoinpaprikaApi.Models.PriceVolume24hPair.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PriceVolume24hPair.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.PriceVolume24hPair.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PriceVolume24hPair.Price property" Url="html/P-CoinpaprikaApi.Models.PriceVolume24hPair.Price.htm" />
+  <HelpKINode Title="PriceVolume24hPair.Volume24H property" Url="html/P-CoinpaprikaApi.Models.PriceVolume24hPair.Volume24H.htm" />
+  <HelpKINode Title="ProofImageLink property" Url="html/P-CoinpaprikaApi.Models.CoinEventItem.ProofImageLink.htm" />
+  <HelpKINode Title="ProofType property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.ProofType.htm" />
+  <HelpKINode Title="QuoteCurrencyId property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.QuoteCurrencyId.htm" />
+  <HelpKINode Title="QuoteCurrencyId property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.QuoteCurrencyId.htm" />
+  <HelpKINode Title="QuoteCurrencyId property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuoteCurrencyId.htm" />
+  <HelpKINode Title="QuoteCurrencyName property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.QuoteCurrencyName.htm" />
+  <HelpKINode Title="QuoteCurrencyName property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.QuoteCurrencyName.htm" />
+  <HelpKINode Title="QuoteCurrencyName property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuoteCurrencyName.htm" />
+  <HelpKINode Title="QuoteData class" Url="html/AllMembers.T-CoinpaprikaApi.Models.QuoteData.htm" />
+  <HelpKINode Title="QuoteData class" Url="html/T-CoinpaprikaApi.Models.QuoteData.htm" />
+  <HelpKINode Title="QuoteData class">
+    <HelpKINode Title="about QuoteData class" Url="html/T-CoinpaprikaApi.Models.QuoteData.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.QuoteData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.QuoteData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="QuoteData.AdjustedVolume24H property" Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume24H.htm" />
+  <HelpKINode Title="QuoteData.AdjustedVolume30D property" Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume30D.htm" />
+  <HelpKINode Title="QuoteData.AdjustedVolume7D property" Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume7D.htm" />
+  <HelpKINode Title="QuoteData.ReportedVolume24H property" Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume24H.htm" />
+  <HelpKINode Title="QuoteData.ReportedVolume30D property" Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume30D.htm" />
+  <HelpKINode Title="QuoteData.ReportedVolume7D property" Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume7D.htm" />
+  <HelpKINode Title="QuotePriceLastUpdated property" Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuotePriceLastUpdated.htm" />
+  <HelpKINode Title="Quotes property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Quotes.htm" />
+  <HelpKINode Title="Quotes property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Quotes.htm" />
+  <HelpKINode Title="Quotes property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Quotes.htm" />
+  <HelpKINode Title="Quotes property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Quotes.htm" />
+  <HelpKINode Title="Rank property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Rank.htm" />
+  <HelpKINode Title="Rank property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Rank.htm" />
+  <HelpKINode Title="Rank property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Rank.htm" />
+  <HelpKINode Title="Rank property" Url="html/P-CoinpaprikaApi.Models.SearchExchange.Rank.htm" />
+  <HelpKINode Title="Rank property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Rank.htm" />
+  <HelpKINode Title="Reddit property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Reddit.htm" />
+  <HelpKINode Title="ReportedRank property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ReportedRank.htm" />
+  <HelpKINode Title="ReportedVolume24H property" Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume24H.htm" />
+  <HelpKINode Title="ReportedVolume24HShare property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.ReportedVolume24HShare.htm" />
+  <HelpKINode Title="ReportedVolume30D property" Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume30D.htm" />
+  <HelpKINode Title="ReportedVolume7D property" Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume7D.htm" />
+  <HelpKINode Title="RequestsLeft property" Url="html/P-CoinpaprikaApi.Models.KeyUsageCurrMonth.RequestsLeft.htm" />
+  <HelpKINode Title="RequestsMade property" Url="html/P-CoinpaprikaApi.Models.KeyUsageCurrMonth.RequestsMade.htm" />
+  <HelpKINode Title="ResourceManager property" Url="html/P-CoinpaprikaApi.Properties.Resources.ResourceManager.htm" />
+  <HelpKINode Title="Resources class" Url="html/AllMembers.T-CoinpaprikaApi.Properties.Resources.htm" />
+  <HelpKINode Title="Resources class" Url="html/T-CoinpaprikaApi.Properties.Resources.htm" />
+  <HelpKINode Title="Resources class">
+    <HelpKINode Title="about Resources class" Url="html/T-CoinpaprikaApi.Properties.Resources.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Properties.Resources.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Properties.Resources.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Resources.coinpaprika_logo property" Url="html/P-CoinpaprikaApi.Properties.Resources.coinpaprika_logo.htm" />
+  <HelpKINode Title="Resources.Culture property" Url="html/P-CoinpaprikaApi.Properties.Resources.Culture.htm" />
+  <HelpKINode Title="Resources.ResourceManager property" Url="html/P-CoinpaprikaApi.Properties.Resources.ResourceManager.htm" />
+  <HelpKINode Title="RetweetCount property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.RetweetCount.htm" />
+  <HelpKINode Title="Rev property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Rev.htm" />
+  <HelpKINode Title="Rev property" Url="html/P-CoinpaprikaApi.Models.SearchExchange.Rev.htm" />
+  <HelpKINode Title="Rev property" Url="html/P-CoinpaprikaApi.Models.SearchIco.Rev.htm" />
+  <HelpKINode Title="SearchAsync method" Url="html/M-CoinpaprikaApi.Imp.ToolsImp.SearchAsync.htm" />
+  <HelpKINode Title="SearchCategory enumeration" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+  <HelpKINode Title="SearchCategory.All field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.All.htm" />
+  <HelpKINode Title="SearchCategory.currencies field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.currencies.htm" />
+  <HelpKINode Title="SearchCategory.exchanges field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.exchanges.htm" />
+  <HelpKINode Title="SearchCategory.icos field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.icos.htm" />
+  <HelpKINode Title="SearchCategory.people field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.people.htm" />
+  <HelpKINode Title="SearchCategory.tags field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.tags.htm" />
+  <HelpKINode Title="SearchCurrency class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchCurrency.htm" />
+  <HelpKINode Title="SearchCurrency class" Url="html/T-CoinpaprikaApi.Models.SearchCurrency.htm" />
+  <HelpKINode Title="SearchCurrency class">
+    <HelpKINode Title="about SearchCurrency class" Url="html/T-CoinpaprikaApi.Models.SearchCurrency.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchCurrency.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchCurrency.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchCurrency.Id property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Id.htm" />
+  <HelpKINode Title="SearchCurrency.IsActive property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.IsActive.htm" />
+  <HelpKINode Title="SearchCurrency.IsNew property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.IsNew.htm" />
+  <HelpKINode Title="SearchCurrency.Name property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Name.htm" />
+  <HelpKINode Title="SearchCurrency.Rank property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Rank.htm" />
+  <HelpKINode Title="SearchCurrency.Rev property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Rev.htm" />
+  <HelpKINode Title="SearchCurrency.Symbol property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Symbol.htm" />
+  <HelpKINode Title="SearchCurrency.Type property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Type.htm" />
+  <HelpKINode Title="SearchExchange class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchExchange.htm" />
+  <HelpKINode Title="SearchExchange class" Url="html/T-CoinpaprikaApi.Models.SearchExchange.htm" />
+  <HelpKINode Title="SearchExchange class">
+    <HelpKINode Title="about SearchExchange class" Url="html/T-CoinpaprikaApi.Models.SearchExchange.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchExchange.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchExchange.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchExchange.Id property" Url="html/P-CoinpaprikaApi.Models.SearchExchange.Id.htm" />
+  <HelpKINode Title="SearchExchange.Name property" Url="html/P-CoinpaprikaApi.Models.SearchExchange.Name.htm" />
+  <HelpKINode Title="SearchExchange.Rank property" Url="html/P-CoinpaprikaApi.Models.SearchExchange.Rank.htm" />
+  <HelpKINode Title="SearchExchange.Rev property" Url="html/P-CoinpaprikaApi.Models.SearchExchange.Rev.htm" />
+  <HelpKINode Title="SearchIco class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchIco.htm" />
+  <HelpKINode Title="SearchIco class" Url="html/T-CoinpaprikaApi.Models.SearchIco.htm" />
+  <HelpKINode Title="SearchIco class">
+    <HelpKINode Title="about SearchIco class" Url="html/T-CoinpaprikaApi.Models.SearchIco.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchIco.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchIco.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchIco.Id property" Url="html/P-CoinpaprikaApi.Models.SearchIco.Id.htm" />
+  <HelpKINode Title="SearchIco.IsNew property" Url="html/P-CoinpaprikaApi.Models.SearchIco.IsNew.htm" />
+  <HelpKINode Title="SearchIco.Name property" Url="html/P-CoinpaprikaApi.Models.SearchIco.Name.htm" />
+  <HelpKINode Title="SearchIco.Rev property" Url="html/P-CoinpaprikaApi.Models.SearchIco.Rev.htm" />
+  <HelpKINode Title="SearchIco.Symbol property" Url="html/P-CoinpaprikaApi.Models.SearchIco.Symbol.htm" />
+  <HelpKINode Title="SearchPerson class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchPerson.htm" />
+  <HelpKINode Title="SearchPerson class" Url="html/T-CoinpaprikaApi.Models.SearchPerson.htm" />
+  <HelpKINode Title="SearchPerson class">
+    <HelpKINode Title="about SearchPerson class" Url="html/T-CoinpaprikaApi.Models.SearchPerson.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchPerson.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchPerson.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchPerson.Id property" Url="html/P-CoinpaprikaApi.Models.SearchPerson.Id.htm" />
+  <HelpKINode Title="SearchPerson.Name property" Url="html/P-CoinpaprikaApi.Models.SearchPerson.Name.htm" />
+  <HelpKINode Title="SearchPerson.TeamsCount property" Url="html/P-CoinpaprikaApi.Models.SearchPerson.TeamsCount.htm" />
+  <HelpKINode Title="SearchResponse class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchResponse.htm" />
+  <HelpKINode Title="SearchResponse class" Url="html/T-CoinpaprikaApi.Models.SearchResponse.htm" />
+  <HelpKINode Title="SearchResponse class">
+    <HelpKINode Title="about SearchResponse class" Url="html/T-CoinpaprikaApi.Models.SearchResponse.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchResponse.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchResponse.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchResponse.Currencies property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.Currencies.htm" />
+  <HelpKINode Title="SearchResponse.Exchanges property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.Exchanges.htm" />
+  <HelpKINode Title="SearchResponse.Icos property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.Icos.htm" />
+  <HelpKINode Title="SearchResponse.People property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.People.htm" />
+  <HelpKINode Title="SearchResponse.Tags property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.Tags.htm" />
+  <HelpKINode Title="SearchTag class" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchTag.htm" />
+  <HelpKINode Title="SearchTag class" Url="html/T-CoinpaprikaApi.Models.SearchTag.htm" />
+  <HelpKINode Title="SearchTag class">
+    <HelpKINode Title="about SearchTag class" Url="html/T-CoinpaprikaApi.Models.SearchTag.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchTag.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchTag.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchTag.CoinCounter property" Url="html/P-CoinpaprikaApi.Models.SearchTag.CoinCounter.htm" />
+  <HelpKINode Title="SearchTag.IcoCounter property" Url="html/P-CoinpaprikaApi.Models.SearchTag.IcoCounter.htm" />
+  <HelpKINode Title="SearchTag.Id property" Url="html/P-CoinpaprikaApi.Models.SearchTag.Id.htm" />
+  <HelpKINode Title="SearchTag.Name property" Url="html/P-CoinpaprikaApi.Models.SearchTag.Name.htm" />
+  <HelpKINode Title="SessionsPerMonth property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.SessionsPerMonth.htm" />
+  <HelpKINode Title="SourceCode property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.SourceCode.htm" />
+  <HelpKINode Title="Stars property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Stars.htm" />
+  <HelpKINode Title="StartedAt property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.StartedAt.htm" />
+  <HelpKINode Title="Stats property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Stats.htm" />
+  <HelpKINode Title="Status property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.Status.htm" />
+  <HelpKINode Title="StatusId property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.StatusId.htm" />
+  <HelpKINode Title="StatusLink property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.StatusLink.htm" />
+  <HelpKINode Title="Subscribers property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Subscribers.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Symbol.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Symbol.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinpaprikaApi.Models.ExchangeFiat.Symbol.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinpaprikaApi.Models.NameSymbolPair.Symbol.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Symbol.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinpaprikaApi.Models.SearchIco.Symbol.htm" />
+  <HelpKINode Title="Symbol property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Symbol.htm" />
+  <HelpKINode Title="TagItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.TagItem.htm" />
+  <HelpKINode Title="TagItem class" Url="html/T-CoinpaprikaApi.Models.TagItem.htm" />
+  <HelpKINode Title="TagItem class">
+    <HelpKINode Title="about TagItem class" Url="html/T-CoinpaprikaApi.Models.TagItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.TagItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.TagItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TagItem.CoinCounter property" Url="html/P-CoinpaprikaApi.Models.TagItem.CoinCounter.htm" />
+  <HelpKINode Title="TagItem.Coins property" Url="html/P-CoinpaprikaApi.Models.TagItem.Coins.htm" />
+  <HelpKINode Title="TagItem.Description property" Url="html/P-CoinpaprikaApi.Models.TagItem.Description.htm" />
+  <HelpKINode Title="TagItem.IcoCounter property" Url="html/P-CoinpaprikaApi.Models.TagItem.IcoCounter.htm" />
+  <HelpKINode Title="TagItem.Icos property" Url="html/P-CoinpaprikaApi.Models.TagItem.Icos.htm" />
+  <HelpKINode Title="TagItem.Id property" Url="html/P-CoinpaprikaApi.Models.TagItem.Id.htm" />
+  <HelpKINode Title="TagItem.Name property" Url="html/P-CoinpaprikaApi.Models.TagItem.Name.htm" />
+  <HelpKINode Title="TagItem.Type property" Url="html/P-CoinpaprikaApi.Models.TagItem.Type.htm" />
+  <HelpKINode Title="tags enumeration member" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+  <HelpKINode Title="tags field" Url="html/F-CoinpaprikaApi.Types.SearchCategory.tags.htm" />
+  <HelpKINode Title="Tags property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tags.htm" />
+  <HelpKINode Title="Tags property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Tags.htm" />
+  <HelpKINode Title="Tags property" Url="html/P-CoinpaprikaApi.Models.SearchResponse.Tags.htm" />
+  <HelpKINode Title="TagsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.TagsImp.htm" />
+  <HelpKINode Title="TagsImp class" Url="html/T-CoinpaprikaApi.Imp.TagsImp.htm" />
+  <HelpKINode Title="TagsImp class">
+    <HelpKINode Title="about TagsImp class" Url="html/T-CoinpaprikaApi.Imp.TagsImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.TagsImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.TagsImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TagsImp.GetTagAsync method" Url="html/M-CoinpaprikaApi.Imp.TagsImp.GetTagAsync.htm" />
+  <HelpKINode Title="TagsImp.GetTagsAsync method" Url="html/M-CoinpaprikaApi.Imp.TagsImp.GetTagsAsync.htm" />
+  <HelpKINode Title="Team property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Team.htm" />
+  <HelpKINode Title="TeamsCount property" Url="html/P-CoinpaprikaApi.Models.PersonResponse.TeamsCount.htm" />
+  <HelpKINode Title="TeamsCount property" Url="html/P-CoinpaprikaApi.Models.SearchPerson.TeamsCount.htm" />
+  <HelpKINode Title="Thumbnail property" Url="html/P-CoinpaprikaApi.Models.CoinWhitepaper.Thumbnail.htm" />
+  <HelpKINode Title="TickerInterval enumeration" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  <HelpKINode Title="TickerInterval.d1 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d1.htm" />
+  <HelpKINode Title="TickerInterval.d14 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d14.htm" />
+  <HelpKINode Title="TickerInterval.d30 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d30.htm" />
+  <HelpKINode Title="TickerInterval.d365 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d365.htm" />
+  <HelpKINode Title="TickerInterval.d7 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d7.htm" />
+  <HelpKINode Title="TickerInterval.d90 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.d90.htm" />
+  <HelpKINode Title="TickerInterval.h1 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h1.htm" />
+  <HelpKINode Title="TickerInterval.h12 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h12.htm" />
+  <HelpKINode Title="TickerInterval.h2 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h2.htm" />
+  <HelpKINode Title="TickerInterval.h24 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h24.htm" />
+  <HelpKINode Title="TickerInterval.h3 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h3.htm" />
+  <HelpKINode Title="TickerInterval.h6 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.h6.htm" />
+  <HelpKINode Title="TickerInterval.m10 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m10.htm" />
+  <HelpKINode Title="TickerInterval.m15 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m15.htm" />
+  <HelpKINode Title="TickerInterval.m30 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m30.htm" />
+  <HelpKINode Title="TickerInterval.m45 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m45.htm" />
+  <HelpKINode Title="TickerInterval.m5 field" Url="html/F-CoinpaprikaApi.Types.TickerInterval.m5.htm" />
+  <HelpKINode Title="TickerItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickerItem.htm" />
+  <HelpKINode Title="TickerItem class" Url="html/T-CoinpaprikaApi.Models.TickerItem.htm" />
+  <HelpKINode Title="TickerItem class">
+    <HelpKINode Title="about TickerItem class" Url="html/T-CoinpaprikaApi.Models.TickerItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickerItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.TickerItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TickerItem.BetaValue property" Url="html/P-CoinpaprikaApi.Models.TickerItem.BetaValue.htm" />
+  <HelpKINode Title="TickerItem.CirculatingSupply property" Url="html/P-CoinpaprikaApi.Models.TickerItem.CirculatingSupply.htm" />
+  <HelpKINode Title="TickerItem.FirstDataAt property" Url="html/P-CoinpaprikaApi.Models.TickerItem.FirstDataAt.htm" />
+  <HelpKINode Title="TickerItem.Id property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Id.htm" />
+  <HelpKINode Title="TickerItem.LastUpdated property" Url="html/P-CoinpaprikaApi.Models.TickerItem.LastUpdated.htm" />
+  <HelpKINode Title="TickerItem.MaxSupply property" Url="html/P-CoinpaprikaApi.Models.TickerItem.MaxSupply.htm" />
+  <HelpKINode Title="TickerItem.Name property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Name.htm" />
+  <HelpKINode Title="TickerItem.Quotes property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Quotes.htm" />
+  <HelpKINode Title="TickerItem.Rank property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Rank.htm" />
+  <HelpKINode Title="TickerItem.Symbol property" Url="html/P-CoinpaprikaApi.Models.TickerItem.Symbol.htm" />
+  <HelpKINode Title="TickerItem.TotalSupply property" Url="html/P-CoinpaprikaApi.Models.TickerItem.TotalSupply.htm" />
+  <HelpKINode Title="TickerQuote class" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickerQuote.htm" />
+  <HelpKINode Title="TickerQuote class" Url="html/T-CoinpaprikaApi.Models.TickerQuote.htm" />
+  <HelpKINode Title="TickerQuote class">
+    <HelpKINode Title="about TickerQuote class" Url="html/T-CoinpaprikaApi.Models.TickerQuote.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickerQuote.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.TickerQuote.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TickerQuote.AthDate property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.AthDate.htm" />
+  <HelpKINode Title="TickerQuote.AthPrice property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.AthPrice.htm" />
+  <HelpKINode Title="TickerQuote.MarketCap property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.MarketCap.htm" />
+  <HelpKINode Title="TickerQuote.MarketCapChange24H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.MarketCapChange24H.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange12H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange12H.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange15M property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange15M.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange1H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange1H.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange1Y property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange1Y.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange24H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange24H.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange30D property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange30D.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange30M property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange30M.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange6H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange6H.htm" />
+  <HelpKINode Title="TickerQuote.PercentChange7D property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange7D.htm" />
+  <HelpKINode Title="TickerQuote.PercentFromPriceAth property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentFromPriceAth.htm" />
+  <HelpKINode Title="TickerQuote.Price property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.Price.htm" />
+  <HelpKINode Title="TickerQuote.Volume24H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.Volume24H.htm" />
+  <HelpKINode Title="TickerQuote.Volume24HChange24H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.Volume24HChange24H.htm" />
+  <HelpKINode Title="Tickers property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tickers.htm" />
+  <HelpKINode Title="TickersImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.TickersImp.htm" />
+  <HelpKINode Title="TickersImp class" Url="html/T-CoinpaprikaApi.Imp.TickersImp.htm" />
+  <HelpKINode Title="TickersImp class">
+    <HelpKINode Title="about TickersImp class" Url="html/T-CoinpaprikaApi.Imp.TickersImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.TickersImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.TickersImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TickersImp.GetHistoricalTicksAsync method" Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetHistoricalTicksAsync.htm" />
+  <HelpKINode Title="TickersImp.GetTickerAsync method" Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetTickerAsync.htm" />
+  <HelpKINode Title="TickersImp.GetTickersAsync method" Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetTickersAsync.htm" />
+  <HelpKINode Title="TickItem class" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickItem.htm" />
+  <HelpKINode Title="TickItem class" Url="html/T-CoinpaprikaApi.Models.TickItem.htm" />
+  <HelpKINode Title="TickItem class">
+    <HelpKINode Title="about TickItem class" Url="html/T-CoinpaprikaApi.Models.TickItem.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-CoinpaprikaApi.Models.TickItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TickItem.MarketCap property" Url="html/P-CoinpaprikaApi.Models.TickItem.MarketCap.htm" />
+  <HelpKINode Title="TickItem.Price property" Url="html/P-CoinpaprikaApi.Models.TickItem.Price.htm" />
+  <HelpKINode Title="TickItem.Timestamp property" Url="html/P-CoinpaprikaApi.Models.TickItem.Timestamp.htm" />
+  <HelpKINode Title="TickItem.Volume24H property" Url="html/P-CoinpaprikaApi.Models.TickItem.Volume24H.htm" />
+  <HelpKINode Title="TimeClose property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.TimeClose.htm" />
+  <HelpKINode Title="TimeOpen property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.TimeOpen.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/P-CoinpaprikaApi.Models.TickItem.Timestamp.htm" />
+  <HelpKINode Title="Tools property" Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tools.htm" />
+  <HelpKINode Title="ToolsImp class" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ToolsImp.htm" />
+  <HelpKINode Title="ToolsImp class" Url="html/T-CoinpaprikaApi.Imp.ToolsImp.htm" />
+  <HelpKINode Title="ToolsImp class">
+    <HelpKINode Title="about ToolsImp class" Url="html/T-CoinpaprikaApi.Imp.ToolsImp.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ToolsImp.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-CoinpaprikaApi.Imp.ToolsImp.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToolsImp.PriceConvertAsync method" Url="html/M-CoinpaprikaApi.Imp.ToolsImp.PriceConvertAsync.htm" />
+  <HelpKINode Title="ToolsImp.SearchAsync method" Url="html/M-CoinpaprikaApi.Imp.ToolsImp.SearchAsync.htm" />
+  <HelpKINode Title="TotalSupply property" Url="html/P-CoinpaprikaApi.Models.TickerItem.TotalSupply.htm" />
+  <HelpKINode Title="TrustScore property" Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.TrustScore.htm" />
+  <HelpKINode Title="TrustScore property" Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.TrustScore.htm" />
+  <HelpKINode Title="Twitter property" Url="html/P-CoinpaprikaApi.Models.PersonLinks.Twitter.htm" />
+  <HelpKINode Title="Type property" Url="html/P-CoinpaprikaApi.Models.CoinItem.Type.htm" />
+  <HelpKINode Title="Type property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Type.htm" />
+  <HelpKINode Title="Type property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Type.htm" />
+  <HelpKINode Title="Type property" Url="html/P-CoinpaprikaApi.Models.ContractItem.Type.htm" />
+  <HelpKINode Title="Type property" Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Type.htm" />
+  <HelpKINode Title="Type property" Url="html/P-CoinpaprikaApi.Models.TagItem.Type.htm" />
+  <HelpKINode Title="UnknownException class" Url="html/AllMembers.T-CoinpaprikaApi.Exceptions.UnknownException.htm" />
+  <HelpKINode Title="UnknownException class" Url="html/T-CoinpaprikaApi.Exceptions.UnknownException.htm" />
+  <HelpKINode Title="UnknownException class">
+    <HelpKINode Title="about UnknownException class" Url="html/T-CoinpaprikaApi.Exceptions.UnknownException.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-CoinpaprikaApi.Exceptions.UnknownException.htm" />
+    <HelpKINode Title="constructor" Url="html/M-CoinpaprikaApi.Exceptions.UnknownException.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnknownException.UnknownException constructor" Url="html/M-CoinpaprikaApi.Exceptions.UnknownException.-ctor.htm" />
+  <HelpKINode Title="Url property" Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Url.htm" />
+  <HelpKINode Title="Url property" Url="html/P-CoinpaprikaApi.Models.PersonLink.Url.htm" />
+  <HelpKINode Title="Usage property" Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.Usage.htm" />
+  <HelpKINode Title="UserImageLink property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.UserImageLink.htm" />
+  <HelpKINode Title="UserName property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.UserName.htm" />
+  <HelpKINode Title="Volume property" Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Volume.htm" />
+  <HelpKINode Title="Volume24H property" Url="html/P-CoinpaprikaApi.Models.MarketQuote.Volume24H.htm" />
+  <HelpKINode Title="Volume24H property" Url="html/P-CoinpaprikaApi.Models.PriceVolume24hPair.Volume24H.htm" />
+  <HelpKINode Title="Volume24H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.Volume24H.htm" />
+  <HelpKINode Title="Volume24H property" Url="html/P-CoinpaprikaApi.Models.TickItem.Volume24H.htm" />
+  <HelpKINode Title="Volume24HAthDate property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HAthDate.htm" />
+  <HelpKINode Title="Volume24HAthValue property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HAthValue.htm" />
+  <HelpKINode Title="Volume24HChange24H property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HChange24H.htm" />
+  <HelpKINode Title="Volume24HChange24H property" Url="html/P-CoinpaprikaApi.Models.TickerQuote.Volume24HChange24H.htm" />
+  <HelpKINode Title="Volume24HPercentFromAth property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HPercentFromAth.htm" />
+  <HelpKINode Title="Volume24HPercentToAth property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HPercentToAth.htm" />
+  <HelpKINode Title="Volume24HUsd property" Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HUsd.htm" />
+  <HelpKINode Title="Website property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Website.htm" />
+  <HelpKINode Title="WebsiteStatus property" Url="html/P-CoinpaprikaApi.Models.ExchangeItem.WebsiteStatus.htm" />
+  <HelpKINode Title="Whitepaper property" Url="html/P-CoinpaprikaApi.Models.CoinResponse.Whitepaper.htm" />
+  <HelpKINode Title="Youtube property" Url="html/P-CoinpaprikaApi.Models.CoinLinks.Youtube.htm" />
+  <HelpKINode Title="YoutubeLink property" Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.YoutubeLink.htm" />
+</HelpKI>

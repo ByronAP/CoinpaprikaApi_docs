@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="83377ede-b083-4e82-8669-26a0215aeba9" Title="CoinpaprikaApi Namespace" Url="html/N-CoinpaprikaApi.htm">
+    <HelpTOCNode Id="b2f69b79-5928-4052-96be-559e1e18609a" Title="CoinpaprikaClient Class" Url="html/T-CoinpaprikaApi.CoinpaprikaClient.htm">
+      <HelpTOCNode Title="CoinpaprikaClient Members" Url="html/AllMembers.T-CoinpaprikaApi.CoinpaprikaClient.htm" />
+      <HelpTOCNode Title="CoinpaprikaClient Constructor " Url="html/M-CoinpaprikaApi.CoinpaprikaClient.-ctor.htm" />
+      <HelpTOCNode Id="b70879f3-eef7-400e-9c20-32fa3f23b3bd" Title="CoinpaprikaClient Methods" Url="html/Methods.T-CoinpaprikaApi.CoinpaprikaClient.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/M-CoinpaprikaApi.CoinpaprikaClient.Dispose.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="50340ed2-a6b3-4ef6-9c8f-e88c0aebd354" Title="CoinpaprikaClient Properties" Url="html/Properties.T-CoinpaprikaApi.CoinpaprikaClient.htm">
+        <HelpTOCNode Title="Coins Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Coins.htm" />
+        <HelpTOCNode Title="Contracts Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Contracts.htm" />
+        <HelpTOCNode Title="CPRestClient Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.CPRestClient.htm" />
+        <HelpTOCNode Title="Exchanges Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Exchanges.htm" />
+        <HelpTOCNode Title="Global Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Global.htm" />
+        <HelpTOCNode Title="IsCacheEnabled Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.IsCacheEnabled.htm" />
+        <HelpTOCNode Title="Key Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Key.htm" />
+        <HelpTOCNode Title="Persons Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Persons.htm" />
+        <HelpTOCNode Title="Tags Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tags.htm" />
+        <HelpTOCNode Title="Tickers Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tickers.htm" />
+        <HelpTOCNode Title="Tools Property " Url="html/P-CoinpaprikaApi.CoinpaprikaClient.Tools.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5fb1ad7-f40a-42eb-9121-b8305e5573e4" Title="Constants Class" Url="html/T-CoinpaprikaApi.Constants.htm">
+      <HelpTOCNode Title="Constants Members" Url="html/AllMembers.T-CoinpaprikaApi.Constants.htm" />
+      <HelpTOCNode Id="eb58c76c-f041-4cc0-8749-1ee69a38ea64" Title="Constants Fields" Url="html/Fields.T-CoinpaprikaApi.Constants.htm">
+        <HelpTOCNode Title="API_BASE_URL Field" Url="html/F-CoinpaprikaApi.Constants.API_BASE_URL.htm" />
+        <HelpTOCNode Title="API_LOGO_128X128_PNG Field" Url="html/F-CoinpaprikaApi.Constants.API_LOGO_128X128_PNG.htm" />
+        <HelpTOCNode Title="API_MIN_CACHE_TIME_MS Field" Url="html/F-CoinpaprikaApi.Constants.API_MIN_CACHE_TIME_MS.htm" />
+        <HelpTOCNode Title="API_NAME Field" Url="html/F-CoinpaprikaApi.Constants.API_NAME.htm" />
+        <HelpTOCNode Title="API_PRO_BASE_URL Field" Url="html/F-CoinpaprikaApi.Constants.API_PRO_BASE_URL.htm" />
+        <HelpTOCNode Title="API_VERSION Field" Url="html/F-CoinpaprikaApi.Constants.API_VERSION.htm" />
+        <HelpTOCNode Title="API_VERSION_FULL Field" Url="html/F-CoinpaprikaApi.Constants.API_VERSION_FULL.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6824bc1e-0568-491f-be8b-0e9655a3b6e4" Title="CoinpaprikaApi.Exceptions Namespace" Url="html/N-CoinpaprikaApi.Exceptions.htm">
+    <HelpTOCNode Id="705802ae-311d-4620-87ae-5ecb39a32e17" Title="UnknownException Class" Url="html/T-CoinpaprikaApi.Exceptions.UnknownException.htm">
+      <HelpTOCNode Title="UnknownException Members" Url="html/AllMembers.T-CoinpaprikaApi.Exceptions.UnknownException.htm" />
+      <HelpTOCNode Title="UnknownException Constructor " Url="html/M-CoinpaprikaApi.Exceptions.UnknownException.-ctor.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="66570610-afdf-4b5a-a914-fbbac0f32426" Title="CoinpaprikaApi.Imp Namespace" Url="html/N-CoinpaprikaApi.Imp.htm">
+    <HelpTOCNode Id="0f5b5fca-1335-4409-8f3c-35ea9f0781a3" Title="CoinsImp Class" Url="html/T-CoinpaprikaApi.Imp.CoinsImp.htm">
+      <HelpTOCNode Title="CoinsImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.CoinsImp.htm" />
+      <HelpTOCNode Id="a7f866c3-ebf5-499c-81f4-67e70c37b4a6" Title="CoinsImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.CoinsImp.htm">
+        <HelpTOCNode Title="GetCoinAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinAsync.htm" />
+        <HelpTOCNode Title="GetCoinEventsAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinEventsAsync.htm" />
+        <HelpTOCNode Title="GetCoinExchangesAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinExchangesAsync.htm" />
+        <HelpTOCNode Title="GetCoinMarketsAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinMarketsAsync.htm" />
+        <HelpTOCNode Title="GetCoinOhlcHistoricAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcHistoricAsync.htm" />
+        <HelpTOCNode Title="GetCoinOhlcLatestAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcLatestAsync.htm" />
+        <HelpTOCNode Title="GetCoinOhlcTodayAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinOhlcTodayAsync.htm" />
+        <HelpTOCNode Title="GetCoinsAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinsAsync.htm" />
+        <HelpTOCNode Title="GetCoinTweetsAsync Method " Url="html/M-CoinpaprikaApi.Imp.CoinsImp.GetCoinTweetsAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd707e28-0236-49aa-80c3-505c8f06e775" Title="ContractsImp Class" Url="html/T-CoinpaprikaApi.Imp.ContractsImp.htm">
+      <HelpTOCNode Title="ContractsImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ContractsImp.htm" />
+      <HelpTOCNode Id="13ae22f1-b6e5-410d-a908-880759a2f2b8" Title="ContractsImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.ContractsImp.htm">
+        <HelpTOCNode Title="GetContractsAsync Method " Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetContractsAsync.htm" />
+        <HelpTOCNode Title="GetHistoricalTicksByContractAddressAsync Method " Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetHistoricalTicksByContractAddressAsync.htm" />
+        <HelpTOCNode Title="GetPlatformsAsync Method " Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetPlatformsAsync.htm" />
+        <HelpTOCNode Title="GetTickerByContractAddressAsync Method " Url="html/M-CoinpaprikaApi.Imp.ContractsImp.GetTickerByContractAddressAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="319152da-560e-443e-8015-f29723252e0d" Title="ExchangesImp Class" Url="html/T-CoinpaprikaApi.Imp.ExchangesImp.htm">
+      <HelpTOCNode Title="ExchangesImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ExchangesImp.htm" />
+      <HelpTOCNode Id="8527bd84-8a09-4caa-a149-dd700ba322f7" Title="ExchangesImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.ExchangesImp.htm">
+        <HelpTOCNode Title="GetExchangeAsync Method " Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangeAsync.htm" />
+        <HelpTOCNode Title="GetExchangeMarketsAsync Method " Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangeMarketsAsync.htm" />
+        <HelpTOCNode Title="GetExchangesAsync Method " Url="html/M-CoinpaprikaApi.Imp.ExchangesImp.GetExchangesAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bf610cb1-ffea-4d42-b639-1d659209da87" Title="GlobalImp Class" Url="html/T-CoinpaprikaApi.Imp.GlobalImp.htm">
+      <HelpTOCNode Title="GlobalImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.GlobalImp.htm" />
+      <HelpTOCNode Id="28e6016e-176b-482a-a17d-5393cdef88a9" Title="GlobalImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.GlobalImp.htm">
+        <HelpTOCNode Title="GetGlobalAsync Method " Url="html/M-CoinpaprikaApi.Imp.GlobalImp.GetGlobalAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a2c818f4-d83a-455e-9ade-40f5f8ca6158" Title="KeyImp Class" Url="html/T-CoinpaprikaApi.Imp.KeyImp.htm">
+      <HelpTOCNode Title="KeyImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.KeyImp.htm" />
+      <HelpTOCNode Id="726b8da3-8fa5-4c7e-aa89-8152b154e99c" Title="KeyImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.KeyImp.htm">
+        <HelpTOCNode Title="GetKeyInfoAsync Method " Url="html/M-CoinpaprikaApi.Imp.KeyImp.GetKeyInfoAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cb755827-cb12-4b0a-a4ac-9c0ab7bc46e5" Title="PersonsImp Class" Url="html/T-CoinpaprikaApi.Imp.PersonsImp.htm">
+      <HelpTOCNode Title="PersonsImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.PersonsImp.htm" />
+      <HelpTOCNode Id="77a99b27-be72-4ee4-9b60-bad0d044384d" Title="PersonsImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.PersonsImp.htm">
+        <HelpTOCNode Title="GetPersonAsync Method " Url="html/M-CoinpaprikaApi.Imp.PersonsImp.GetPersonAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="979408cb-a9ca-4d5e-aedf-0f247880988c" Title="TagsImp Class" Url="html/T-CoinpaprikaApi.Imp.TagsImp.htm">
+      <HelpTOCNode Title="TagsImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.TagsImp.htm" />
+      <HelpTOCNode Id="5a025a92-39ac-466f-84f2-17aa90cf89e7" Title="TagsImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.TagsImp.htm">
+        <HelpTOCNode Title="GetTagAsync Method " Url="html/M-CoinpaprikaApi.Imp.TagsImp.GetTagAsync.htm" />
+        <HelpTOCNode Title="GetTagsAsync Method " Url="html/M-CoinpaprikaApi.Imp.TagsImp.GetTagsAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="78ea3d3b-2030-4bae-9597-bbd6c469d6a3" Title="TickersImp Class" Url="html/T-CoinpaprikaApi.Imp.TickersImp.htm">
+      <HelpTOCNode Title="TickersImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.TickersImp.htm" />
+      <HelpTOCNode Id="955783a9-aa0f-4b20-b4ea-31ca2a3a910d" Title="TickersImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.TickersImp.htm">
+        <HelpTOCNode Title="GetHistoricalTicksAsync Method " Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetHistoricalTicksAsync.htm" />
+        <HelpTOCNode Title="GetTickerAsync Method " Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetTickerAsync.htm" />
+        <HelpTOCNode Title="GetTickersAsync Method " Url="html/M-CoinpaprikaApi.Imp.TickersImp.GetTickersAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9931592b-c47e-4bd8-8855-d4df8deb1387" Title="ToolsImp Class" Url="html/T-CoinpaprikaApi.Imp.ToolsImp.htm">
+      <HelpTOCNode Title="ToolsImp Members" Url="html/AllMembers.T-CoinpaprikaApi.Imp.ToolsImp.htm" />
+      <HelpTOCNode Id="e368f4c8-7b7a-4b59-a611-2e188d980a35" Title="ToolsImp Methods" Url="html/Methods.T-CoinpaprikaApi.Imp.ToolsImp.htm">
+        <HelpTOCNode Title="PriceConvertAsync Method " Url="html/M-CoinpaprikaApi.Imp.ToolsImp.PriceConvertAsync.htm" />
+        <HelpTOCNode Title="SearchAsync Method " Url="html/M-CoinpaprikaApi.Imp.ToolsImp.SearchAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="9c89908d-56a6-408d-9fcf-0780e6a5dfe3" Title="CoinpaprikaApi.Models Namespace" Url="html/N-CoinpaprikaApi.Models.htm">
+    <HelpTOCNode Id="4eed7bcf-9d8f-4c73-b0ec-d3bb3bd13ba6" Title="CoinEventItem Class" Url="html/T-CoinpaprikaApi.Models.CoinEventItem.htm">
+      <HelpTOCNode Title="CoinEventItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinEventItem.htm" />
+      <HelpTOCNode Id="9d076595-541e-49cf-891a-ca4df3e19033" Title="CoinEventItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinEventItem.htm">
+        <HelpTOCNode Title="Date Property " Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Date.htm" />
+        <HelpTOCNode Title="DateTo Property " Url="html/P-CoinpaprikaApi.Models.CoinEventItem.DateTo.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Description.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Id.htm" />
+        <HelpTOCNode Title="IsConference Property " Url="html/P-CoinpaprikaApi.Models.CoinEventItem.IsConference.htm" />
+        <HelpTOCNode Title="Link Property " Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Link.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.CoinEventItem.Name.htm" />
+        <HelpTOCNode Title="ProofImageLink Property " Url="html/P-CoinpaprikaApi.Models.CoinEventItem.ProofImageLink.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="306d7291-7ab1-47ed-8c44-6002489605e5" Title="CoinExchangeItem Class" Url="html/T-CoinpaprikaApi.Models.CoinExchangeItem.htm">
+      <HelpTOCNode Title="CoinExchangeItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinExchangeItem.htm" />
+      <HelpTOCNode Id="cbcbafdb-df8d-4968-9fba-4511f5f7bd16" Title="CoinExchangeItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinExchangeItem.htm">
+        <HelpTOCNode Title="AdjustedVolume24HShare Property " Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.AdjustedVolume24HShare.htm" />
+        <HelpTOCNode Title="Fiats Property " Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Fiats.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.CoinExchangeItem.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="28df9c33-edc0-4795-9d2e-794515ffc742" Title="CoinItem Class" Url="html/T-CoinpaprikaApi.Models.CoinItem.htm">
+      <HelpTOCNode Title="CoinItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinItem.htm" />
+      <HelpTOCNode Id="08b71b12-b6ed-4259-b8e7-2c16074ea9b8" Title="CoinItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinItem.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.CoinItem.Id.htm" />
+        <HelpTOCNode Title="IsActive Property " Url="html/P-CoinpaprikaApi.Models.CoinItem.IsActive.htm" />
+        <HelpTOCNode Title="IsNew Property " Url="html/P-CoinpaprikaApi.Models.CoinItem.IsNew.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.CoinItem.Name.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/P-CoinpaprikaApi.Models.CoinItem.Rank.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinpaprikaApi.Models.CoinItem.Symbol.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-CoinpaprikaApi.Models.CoinItem.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="96bca12d-32f0-4afa-9152-21d082e81703" Title="CoinLinks Class" Url="html/T-CoinpaprikaApi.Models.CoinLinks.htm">
+      <HelpTOCNode Title="CoinLinks Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinks.htm" />
+      <HelpTOCNode Id="a9ef080e-814c-4aee-8372-60ea0e5e345f" Title="CoinLinks Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinLinks.htm">
+        <HelpTOCNode Title="Explorer Property " Url="html/P-CoinpaprikaApi.Models.CoinLinks.Explorer.htm" />
+        <HelpTOCNode Title="Facebook Property " Url="html/P-CoinpaprikaApi.Models.CoinLinks.Facebook.htm" />
+        <HelpTOCNode Title="Medium Property " Url="html/P-CoinpaprikaApi.Models.CoinLinks.Medium.htm" />
+        <HelpTOCNode Title="Reddit Property " Url="html/P-CoinpaprikaApi.Models.CoinLinks.Reddit.htm" />
+        <HelpTOCNode Title="SourceCode Property " Url="html/P-CoinpaprikaApi.Models.CoinLinks.SourceCode.htm" />
+        <HelpTOCNode Title="Website Property " Url="html/P-CoinpaprikaApi.Models.CoinLinks.Website.htm" />
+        <HelpTOCNode Title="Youtube Property " Url="html/P-CoinpaprikaApi.Models.CoinLinks.Youtube.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c3f6cb88-04e2-41e7-8bba-529c72e6a877" Title="CoinLinksExtendedItem Class" Url="html/T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm">
+      <HelpTOCNode Title="CoinLinksExtendedItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm" />
+      <HelpTOCNode Id="0fd6baa3-c4b9-49ff-9953-619ad0ad9487" Title="CoinLinksExtendedItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinLinksExtendedItem.htm">
+        <HelpTOCNode Title="Stats Property " Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Stats.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Type.htm" />
+        <HelpTOCNode Title="Url Property " Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItem.Url.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e1070ea1-ec26-4756-a084-ceb13c497197" Title="CoinLinksExtendedItemStats Class" Url="html/T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm">
+      <HelpTOCNode Title="CoinLinksExtendedItemStats Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm" />
+      <HelpTOCNode Id="1950169f-8fae-49d5-a38b-7331c440edaa" Title="CoinLinksExtendedItemStats Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.htm">
+        <HelpTOCNode Title="Contributors Property " Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Contributors.htm" />
+        <HelpTOCNode Title="Followers Property " Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Followers.htm" />
+        <HelpTOCNode Title="Stars Property " Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Stars.htm" />
+        <HelpTOCNode Title="Subscribers Property " Url="html/P-CoinpaprikaApi.Models.CoinLinksExtendedItemStats.Subscribers.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c020aca7-19c2-4398-89c7-63511915f1ec" Title="CoinMarketItem Class" Url="html/T-CoinpaprikaApi.Models.CoinMarketItem.htm">
+      <HelpTOCNode Title="CoinMarketItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinMarketItem.htm" />
+      <HelpTOCNode Id="6ca61843-ce23-4055-8ca8-75f2270a1165" Title="CoinMarketItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinMarketItem.htm">
+        <HelpTOCNode Title="AdjustedVolume24HShare Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.AdjustedVolume24HShare.htm" />
+        <HelpTOCNode Title="BaseCurrencyId Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.BaseCurrencyId.htm" />
+        <HelpTOCNode Title="BaseCurrencyName Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.BaseCurrencyName.htm" />
+        <HelpTOCNode Title="Category Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Category.htm" />
+        <HelpTOCNode Title="ExchangeId Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.ExchangeId.htm" />
+        <HelpTOCNode Title="ExchangeName Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.ExchangeName.htm" />
+        <HelpTOCNode Title="FeeType Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.FeeType.htm" />
+        <HelpTOCNode Title="LastUpdated Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.LastUpdated.htm" />
+        <HelpTOCNode Title="MarketUrl Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.MarketUrl.htm" />
+        <HelpTOCNode Title="Outlier Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Outlier.htm" />
+        <HelpTOCNode Title="Pair Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Pair.htm" />
+        <HelpTOCNode Title="QuoteCurrencyId Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.QuoteCurrencyId.htm" />
+        <HelpTOCNode Title="QuoteCurrencyName Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.QuoteCurrencyName.htm" />
+        <HelpTOCNode Title="Quotes Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.Quotes.htm" />
+        <HelpTOCNode Title="TrustScore Property " Url="html/P-CoinpaprikaApi.Models.CoinMarketItem.TrustScore.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2ee5c059-3e2c-452c-9b3f-d6ef701bc41a" Title="CoinResponse Class" Url="html/T-CoinpaprikaApi.Models.CoinResponse.htm">
+      <HelpTOCNode Title="CoinResponse Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinResponse.htm" />
+      <HelpTOCNode Id="c812365f-39eb-43bf-8c5c-cd065f5b5872" Title="CoinResponse Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinResponse.htm">
+        <HelpTOCNode Title="Description Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Description.htm" />
+        <HelpTOCNode Title="DevelopmentStatus Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.DevelopmentStatus.htm" />
+        <HelpTOCNode Title="FirstDataAt Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.FirstDataAt.htm" />
+        <HelpTOCNode Title="HardwareWallet Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.HardwareWallet.htm" />
+        <HelpTOCNode Title="HashAlgorithm Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.HashAlgorithm.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Id.htm" />
+        <HelpTOCNode Title="IsActive Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.IsActive.htm" />
+        <HelpTOCNode Title="IsNew Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.IsNew.htm" />
+        <HelpTOCNode Title="LastDataAt Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.LastDataAt.htm" />
+        <HelpTOCNode Title="Links Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Links.htm" />
+        <HelpTOCNode Title="LinksExtended Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.LinksExtended.htm" />
+        <HelpTOCNode Title="Logo Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Logo.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Message.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Name.htm" />
+        <HelpTOCNode Title="OpenSource Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.OpenSource.htm" />
+        <HelpTOCNode Title="OrgStructure Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.OrgStructure.htm" />
+        <HelpTOCNode Title="ProofType Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.ProofType.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Rank.htm" />
+        <HelpTOCNode Title="StartedAt Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.StartedAt.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Symbol.htm" />
+        <HelpTOCNode Title="Tags Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Tags.htm" />
+        <HelpTOCNode Title="Team Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Team.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Type.htm" />
+        <HelpTOCNode Title="Whitepaper Property " Url="html/P-CoinpaprikaApi.Models.CoinResponse.Whitepaper.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7adb2566-a846-4c1a-83c3-c94a09b7035b" Title="CoinTagItem Class" Url="html/T-CoinpaprikaApi.Models.CoinTagItem.htm">
+      <HelpTOCNode Title="CoinTagItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTagItem.htm" />
+      <HelpTOCNode Id="89e26dce-e2ae-4d40-b061-e660025636f6" Title="CoinTagItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinTagItem.htm">
+        <HelpTOCNode Title="CoinCounter Property " Url="html/P-CoinpaprikaApi.Models.CoinTagItem.CoinCounter.htm" />
+        <HelpTOCNode Title="IcoCounter Property " Url="html/P-CoinpaprikaApi.Models.CoinTagItem.IcoCounter.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.CoinTagItem.Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.CoinTagItem.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="61e35398-6767-4035-a351-5d48950bb727" Title="CoinTeamItem Class" Url="html/T-CoinpaprikaApi.Models.CoinTeamItem.htm">
+      <HelpTOCNode Title="CoinTeamItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTeamItem.htm" />
+      <HelpTOCNode Id="4562a0a1-e998-4ec2-8f75-50a2d3111f7c" Title="CoinTeamItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinTeamItem.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Name.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/P-CoinpaprikaApi.Models.CoinTeamItem.Position.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5360306d-0ec3-4aae-9dc2-cd5a101e2fa5" Title="CoinTweetItem Class" Url="html/T-CoinpaprikaApi.Models.CoinTweetItem.htm">
+      <HelpTOCNode Title="CoinTweetItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinTweetItem.htm" />
+      <HelpTOCNode Id="a76445ae-5a11-4211-aea4-c22e6986bb53" Title="CoinTweetItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinTweetItem.htm">
+        <HelpTOCNode Title="Date Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.Date.htm" />
+        <HelpTOCNode Title="IsRetweet Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.IsRetweet.htm" />
+        <HelpTOCNode Title="LikeCount Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.LikeCount.htm" />
+        <HelpTOCNode Title="MediaLink Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.MediaLink.htm" />
+        <HelpTOCNode Title="RetweetCount Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.RetweetCount.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.Status.htm" />
+        <HelpTOCNode Title="StatusId Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.StatusId.htm" />
+        <HelpTOCNode Title="StatusLink Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.StatusLink.htm" />
+        <HelpTOCNode Title="UserImageLink Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.UserImageLink.htm" />
+        <HelpTOCNode Title="UserName Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.UserName.htm" />
+        <HelpTOCNode Title="YoutubeLink Property " Url="html/P-CoinpaprikaApi.Models.CoinTweetItem.YoutubeLink.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5e2fe90-2e02-4536-a155-1f94323f6921" Title="CoinWhitepaper Class" Url="html/T-CoinpaprikaApi.Models.CoinWhitepaper.htm">
+      <HelpTOCNode Title="CoinWhitepaper Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.CoinWhitepaper.htm" />
+      <HelpTOCNode Id="192f8671-b57f-428d-a43a-6b3a0be4b7da" Title="CoinWhitepaper Properties" Url="html/Properties.T-CoinpaprikaApi.Models.CoinWhitepaper.htm">
+        <HelpTOCNode Title="Link Property " Url="html/P-CoinpaprikaApi.Models.CoinWhitepaper.Link.htm" />
+        <HelpTOCNode Title="Thumbnail Property " Url="html/P-CoinpaprikaApi.Models.CoinWhitepaper.Thumbnail.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cffa9c54-7138-461b-b8cd-cc1ba57b0fc7" Title="ContractItem Class" Url="html/T-CoinpaprikaApi.Models.ContractItem.htm">
+      <HelpTOCNode Title="ContractItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.ContractItem.htm" />
+      <HelpTOCNode Id="319534bd-ffa3-4868-bf43-d23205c38e64" Title="ContractItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.ContractItem.htm">
+        <HelpTOCNode Title="Active Property " Url="html/P-CoinpaprikaApi.Models.ContractItem.Active.htm" />
+        <HelpTOCNode Title="Address Property " Url="html/P-CoinpaprikaApi.Models.ContractItem.Address.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.ContractItem.Id.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-CoinpaprikaApi.Models.ContractItem.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ddb29d7e-0edc-41e5-8dac-56f627b51866" Title="ExchangeFiat Class" Url="html/T-CoinpaprikaApi.Models.ExchangeFiat.htm">
+      <HelpTOCNode Title="ExchangeFiat Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeFiat.htm" />
+      <HelpTOCNode Id="b777cc2a-02cf-490b-91f3-180ea720904a" Title="ExchangeFiat Properties" Url="html/Properties.T-CoinpaprikaApi.Models.ExchangeFiat.htm">
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.ExchangeFiat.Name.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinpaprikaApi.Models.ExchangeFiat.Symbol.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f9b2287a-e6c5-4c38-9230-681b22cc5a3c" Title="ExchangeItem Class" Url="html/T-CoinpaprikaApi.Models.ExchangeItem.htm">
+      <HelpTOCNode Title="ExchangeItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeItem.htm" />
+      <HelpTOCNode Id="9575c6c0-a56b-4307-b529-9848047d0b6e" Title="ExchangeItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.ExchangeItem.htm">
+        <HelpTOCNode Title="Active Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Active.htm" />
+        <HelpTOCNode Title="AdjustedRank Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.AdjustedRank.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ApiStatus.htm" />
+        <HelpTOCNode Title="ConfidenceScore Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ConfidenceScore.htm" />
+        <HelpTOCNode Title="Currencies Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Currencies.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Description.htm" />
+        <HelpTOCNode Title="Fiats Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Fiats.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Id.htm" />
+        <HelpTOCNode Title="LastUpdated Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.LastUpdated.htm" />
+        <HelpTOCNode Title="Links Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Links.htm" />
+        <HelpTOCNode Title="Markets Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Markets.htm" />
+        <HelpTOCNode Title="MarketsDataFetched Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.MarketsDataFetched.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Message.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Name.htm" />
+        <HelpTOCNode Title="Quotes Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.Quotes.htm" />
+        <HelpTOCNode Title="ReportedRank Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.ReportedRank.htm" />
+        <HelpTOCNode Title="SessionsPerMonth Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.SessionsPerMonth.htm" />
+        <HelpTOCNode Title="WebsiteStatus Property " Url="html/P-CoinpaprikaApi.Models.ExchangeItem.WebsiteStatus.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f10db9b2-b728-4eab-b6ea-ea33cfbe1864" Title="ExchangeMarketItem Class" Url="html/T-CoinpaprikaApi.Models.ExchangeMarketItem.htm">
+      <HelpTOCNode Title="ExchangeMarketItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.ExchangeMarketItem.htm" />
+      <HelpTOCNode Id="448b88d7-3d40-44f4-b6b3-98ee65cdd0ab" Title="ExchangeMarketItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.ExchangeMarketItem.htm">
+        <HelpTOCNode Title="BaseCurrencyId Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.BaseCurrencyId.htm" />
+        <HelpTOCNode Title="BaseCurrencyName Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.BaseCurrencyName.htm" />
+        <HelpTOCNode Title="Category Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Category.htm" />
+        <HelpTOCNode Title="FeeType Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.FeeType.htm" />
+        <HelpTOCNode Title="LastUpdated Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.LastUpdated.htm" />
+        <HelpTOCNode Title="MarketUrl Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.MarketUrl.htm" />
+        <HelpTOCNode Title="Outlier Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Outlier.htm" />
+        <HelpTOCNode Title="Pair Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Pair.htm" />
+        <HelpTOCNode Title="QuoteCurrencyId Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.QuoteCurrencyId.htm" />
+        <HelpTOCNode Title="QuoteCurrencyName Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.QuoteCurrencyName.htm" />
+        <HelpTOCNode Title="Quotes Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.Quotes.htm" />
+        <HelpTOCNode Title="ReportedVolume24HShare Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.ReportedVolume24HShare.htm" />
+        <HelpTOCNode Title="TrustScore Property " Url="html/P-CoinpaprikaApi.Models.ExchangeMarketItem.TrustScore.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="89b4160d-0200-4e30-98d8-a30fa7f4cfbb" Title="GlobalResponse Class" Url="html/T-CoinpaprikaApi.Models.GlobalResponse.htm">
+      <HelpTOCNode Title="GlobalResponse Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.GlobalResponse.htm" />
+      <HelpTOCNode Id="5d5ee07e-6ab6-4ef3-8984-4e1bee382f77" Title="GlobalResponse Properties" Url="html/Properties.T-CoinpaprikaApi.Models.GlobalResponse.htm">
+        <HelpTOCNode Title="BitcoinDominancePercentage Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.BitcoinDominancePercentage.htm" />
+        <HelpTOCNode Title="CryptocurrenciesNumber Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.CryptocurrenciesNumber.htm" />
+        <HelpTOCNode Title="LastUpdated Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.LastUpdated.htm" />
+        <HelpTOCNode Title="MarketCapAthDate Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapAthDate.htm" />
+        <HelpTOCNode Title="MarketCapAthValue Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapAthValue.htm" />
+        <HelpTOCNode Title="MarketCapChange24H Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapChange24H.htm" />
+        <HelpTOCNode Title="MarketCapUsd Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.MarketCapUsd.htm" />
+        <HelpTOCNode Title="Volume24HAthDate Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HAthDate.htm" />
+        <HelpTOCNode Title="Volume24HAthValue Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HAthValue.htm" />
+        <HelpTOCNode Title="Volume24HChange24H Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HChange24H.htm" />
+        <HelpTOCNode Title="Volume24HPercentFromAth Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HPercentFromAth.htm" />
+        <HelpTOCNode Title="Volume24HPercentToAth Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HPercentToAth.htm" />
+        <HelpTOCNode Title="Volume24HUsd Property " Url="html/P-CoinpaprikaApi.Models.GlobalResponse.Volume24HUsd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="539e910a-34b2-463e-87ef-f71e2c123d83" Title="KeyInfoResponse Class" Url="html/T-CoinpaprikaApi.Models.KeyInfoResponse.htm">
+      <HelpTOCNode Title="KeyInfoResponse Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyInfoResponse.htm" />
+      <HelpTOCNode Id="d0935ed8-cea4-4964-beda-7432fa50346c" Title="KeyInfoResponse Properties" Url="html/Properties.T-CoinpaprikaApi.Models.KeyInfoResponse.htm">
+        <HelpTOCNode Title="Plan Property " Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.Plan.htm" />
+        <HelpTOCNode Title="PlanStartedAt Property " Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PlanStartedAt.htm" />
+        <HelpTOCNode Title="PlanStatus Property " Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PlanStatus.htm" />
+        <HelpTOCNode Title="PortalUrl Property " Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.PortalUrl.htm" />
+        <HelpTOCNode Title="Usage Property " Url="html/P-CoinpaprikaApi.Models.KeyInfoResponse.Usage.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="51dc2dd9-6508-4cd8-87b7-5455daaf09b3" Title="KeyUsage Class" Url="html/T-CoinpaprikaApi.Models.KeyUsage.htm">
+      <HelpTOCNode Title="KeyUsage Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyUsage.htm" />
+      <HelpTOCNode Id="cf3c6366-fb0b-4e38-bdca-2366dd217dc0" Title="KeyUsage Properties" Url="html/Properties.T-CoinpaprikaApi.Models.KeyUsage.htm">
+        <HelpTOCNode Title="CurrentMonth Property " Url="html/P-CoinpaprikaApi.Models.KeyUsage.CurrentMonth.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P-CoinpaprikaApi.Models.KeyUsage.Message.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9e3c5dfd-0e9e-476e-94a8-817c968fbc17" Title="KeyUsageCurrMonth Class" Url="html/T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm">
+      <HelpTOCNode Title="KeyUsageCurrMonth Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm" />
+      <HelpTOCNode Id="60fbcb2d-8ae6-47eb-a5fd-3d1a24ffceb7" Title="KeyUsageCurrMonth Properties" Url="html/Properties.T-CoinpaprikaApi.Models.KeyUsageCurrMonth.htm">
+        <HelpTOCNode Title="RequestsLeft Property " Url="html/P-CoinpaprikaApi.Models.KeyUsageCurrMonth.RequestsLeft.htm" />
+        <HelpTOCNode Title="RequestsMade Property " Url="html/P-CoinpaprikaApi.Models.KeyUsageCurrMonth.RequestsMade.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3a32ba2a-5c28-4cf2-9a60-72975e1e82c9" Title="MarketQuote Class" Url="html/T-CoinpaprikaApi.Models.MarketQuote.htm">
+      <HelpTOCNode Title="MarketQuote Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.MarketQuote.htm" />
+      <HelpTOCNode Id="2d7ec84b-2475-4662-bad1-022eacd413ed" Title="MarketQuote Properties" Url="html/Properties.T-CoinpaprikaApi.Models.MarketQuote.htm">
+        <HelpTOCNode Title="Price Property " Url="html/P-CoinpaprikaApi.Models.MarketQuote.Price.htm" />
+        <HelpTOCNode Title="Volume24H Property " Url="html/P-CoinpaprikaApi.Models.MarketQuote.Volume24H.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0e470038-6e16-4571-97c2-9120cdc94b2d" Title="NameSymbolPair Class" Url="html/T-CoinpaprikaApi.Models.NameSymbolPair.htm">
+      <HelpTOCNode Title="NameSymbolPair Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.NameSymbolPair.htm" />
+      <HelpTOCNode Id="feb75012-c189-48c8-80ab-a6101d1a3a67" Title="NameSymbolPair Properties" Url="html/Properties.T-CoinpaprikaApi.Models.NameSymbolPair.htm">
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.NameSymbolPair.Name.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinpaprikaApi.Models.NameSymbolPair.Symbol.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="500d980b-9b7e-4b8c-bc6e-138dc1313a94" Title="OhlcvItem Class" Url="html/T-CoinpaprikaApi.Models.OhlcvItem.htm">
+      <HelpTOCNode Title="OhlcvItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.OhlcvItem.htm" />
+      <HelpTOCNode Id="74bd8659-8650-4f1e-a954-f10c7252d97e" Title="OhlcvItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.OhlcvItem.htm">
+        <HelpTOCNode Title="Close Property " Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Close.htm" />
+        <HelpTOCNode Title="High Property " Url="html/P-CoinpaprikaApi.Models.OhlcvItem.High.htm" />
+        <HelpTOCNode Title="Low Property " Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Low.htm" />
+        <HelpTOCNode Title="MarketCap Property " Url="html/P-CoinpaprikaApi.Models.OhlcvItem.MarketCap.htm" />
+        <HelpTOCNode Title="Open Property " Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Open.htm" />
+        <HelpTOCNode Title="TimeClose Property " Url="html/P-CoinpaprikaApi.Models.OhlcvItem.TimeClose.htm" />
+        <HelpTOCNode Title="TimeOpen Property " Url="html/P-CoinpaprikaApi.Models.OhlcvItem.TimeOpen.htm" />
+        <HelpTOCNode Title="Volume Property " Url="html/P-CoinpaprikaApi.Models.OhlcvItem.Volume.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1fa63a85-7272-4607-a182-b58553832f6c" Title="PersonLink Class" Url="html/T-CoinpaprikaApi.Models.PersonLink.htm">
+      <HelpTOCNode Title="PersonLink Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonLink.htm" />
+      <HelpTOCNode Id="62121ceb-6f83-4e82-820b-bdde9c779626" Title="PersonLink Properties" Url="html/Properties.T-CoinpaprikaApi.Models.PersonLink.htm">
+        <HelpTOCNode Title="Followers Property " Url="html/P-CoinpaprikaApi.Models.PersonLink.Followers.htm" />
+        <HelpTOCNode Title="Url Property " Url="html/P-CoinpaprikaApi.Models.PersonLink.Url.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="93c1e44e-6a68-451c-887a-00eb51e981f1" Title="PersonLinks Class" Url="html/T-CoinpaprikaApi.Models.PersonLinks.htm">
+      <HelpTOCNode Title="PersonLinks Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonLinks.htm" />
+      <HelpTOCNode Id="69982d76-d623-4a5b-becf-11a123185d8c" Title="PersonLinks Properties" Url="html/Properties.T-CoinpaprikaApi.Models.PersonLinks.htm">
+        <HelpTOCNode Title="Github Property " Url="html/P-CoinpaprikaApi.Models.PersonLinks.Github.htm" />
+        <HelpTOCNode Title="Linkedin Property " Url="html/P-CoinpaprikaApi.Models.PersonLinks.Linkedin.htm" />
+        <HelpTOCNode Title="Medium Property " Url="html/P-CoinpaprikaApi.Models.PersonLinks.Medium.htm" />
+        <HelpTOCNode Title="Twitter Property " Url="html/P-CoinpaprikaApi.Models.PersonLinks.Twitter.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="abcec4b2-2ee9-484c-a5a6-1166ba52b61f" Title="PersonPosition Class" Url="html/T-CoinpaprikaApi.Models.PersonPosition.htm">
+      <HelpTOCNode Title="PersonPosition Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonPosition.htm" />
+      <HelpTOCNode Id="5268a9ea-d0db-41b0-8703-278a9fc1abb4" Title="PersonPosition Properties" Url="html/Properties.T-CoinpaprikaApi.Models.PersonPosition.htm">
+        <HelpTOCNode Title="CoinId Property " Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinId.htm" />
+        <HelpTOCNode Title="CoinName Property " Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinName.htm" />
+        <HelpTOCNode Title="CoinSymbol Property " Url="html/P-CoinpaprikaApi.Models.PersonPosition.CoinSymbol.htm" />
+        <HelpTOCNode Title="PositionPosition Property " Url="html/P-CoinpaprikaApi.Models.PersonPosition.PositionPosition.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="12f4f1c7-1e77-42de-b1a6-b5c99194da14" Title="PersonResponse Class" Url="html/T-CoinpaprikaApi.Models.PersonResponse.htm">
+      <HelpTOCNode Title="PersonResponse Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PersonResponse.htm" />
+      <HelpTOCNode Id="d7f06886-c72a-4a03-9bc0-2fd01d6ecfd2" Title="PersonResponse Properties" Url="html/Properties.T-CoinpaprikaApi.Models.PersonResponse.htm">
+        <HelpTOCNode Title="Description Property " Url="html/P-CoinpaprikaApi.Models.PersonResponse.Description.htm" />
+        <HelpTOCNode Title="Error Property " Url="html/P-CoinpaprikaApi.Models.PersonResponse.Error.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.PersonResponse.Id.htm" />
+        <HelpTOCNode Title="Links Property " Url="html/P-CoinpaprikaApi.Models.PersonResponse.Links.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.PersonResponse.Name.htm" />
+        <HelpTOCNode Title="Positions Property " Url="html/P-CoinpaprikaApi.Models.PersonResponse.Positions.htm" />
+        <HelpTOCNode Title="TeamsCount Property " Url="html/P-CoinpaprikaApi.Models.PersonResponse.TeamsCount.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="44e1f66a-e5a9-4ceb-84dd-546074c268f1" Title="PriceConverterResponse Class" Url="html/T-CoinpaprikaApi.Models.PriceConverterResponse.htm">
+      <HelpTOCNode Title="PriceConverterResponse Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PriceConverterResponse.htm" />
+      <HelpTOCNode Id="14bfde47-fd30-47ce-bba0-9eed1f5f533b" Title="PriceConverterResponse Properties" Url="html/Properties.T-CoinpaprikaApi.Models.PriceConverterResponse.htm">
+        <HelpTOCNode Title="Amount Property " Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.Amount.htm" />
+        <HelpTOCNode Title="BaseCurrencyId Property " Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BaseCurrencyId.htm" />
+        <HelpTOCNode Title="BaseCurrencyName Property " Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BaseCurrencyName.htm" />
+        <HelpTOCNode Title="BasePriceLastUpdated Property " Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.BasePriceLastUpdated.htm" />
+        <HelpTOCNode Title="Price Property " Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.Price.htm" />
+        <HelpTOCNode Title="QuoteCurrencyId Property " Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuoteCurrencyId.htm" />
+        <HelpTOCNode Title="QuoteCurrencyName Property " Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuoteCurrencyName.htm" />
+        <HelpTOCNode Title="QuotePriceLastUpdated Property " Url="html/P-CoinpaprikaApi.Models.PriceConverterResponse.QuotePriceLastUpdated.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b09774e9-202a-4012-99b6-b2990f86c183" Title="PriceVolume24hPair Class" Url="html/T-CoinpaprikaApi.Models.PriceVolume24hPair.htm">
+      <HelpTOCNode Title="PriceVolume24hPair Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.PriceVolume24hPair.htm" />
+      <HelpTOCNode Id="9beff306-8998-4607-aefe-c261d42c1b32" Title="PriceVolume24hPair Properties" Url="html/Properties.T-CoinpaprikaApi.Models.PriceVolume24hPair.htm">
+        <HelpTOCNode Title="Price Property " Url="html/P-CoinpaprikaApi.Models.PriceVolume24hPair.Price.htm" />
+        <HelpTOCNode Title="Volume24H Property " Url="html/P-CoinpaprikaApi.Models.PriceVolume24hPair.Volume24H.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f9031900-dcdb-4141-8f4c-44afe8154546" Title="QuoteData Class" Url="html/T-CoinpaprikaApi.Models.QuoteData.htm">
+      <HelpTOCNode Title="QuoteData Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.QuoteData.htm" />
+      <HelpTOCNode Id="49c7d69c-5ed1-47c1-b3ce-d2da58491c5b" Title="QuoteData Properties" Url="html/Properties.T-CoinpaprikaApi.Models.QuoteData.htm">
+        <HelpTOCNode Title="AdjustedVolume24H Property " Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume24H.htm" />
+        <HelpTOCNode Title="AdjustedVolume30D Property " Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume30D.htm" />
+        <HelpTOCNode Title="AdjustedVolume7D Property " Url="html/P-CoinpaprikaApi.Models.QuoteData.AdjustedVolume7D.htm" />
+        <HelpTOCNode Title="ReportedVolume24H Property " Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume24H.htm" />
+        <HelpTOCNode Title="ReportedVolume30D Property " Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume30D.htm" />
+        <HelpTOCNode Title="ReportedVolume7D Property " Url="html/P-CoinpaprikaApi.Models.QuoteData.ReportedVolume7D.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="25f4597b-4322-4b46-b3de-70b393cfa345" Title="SearchCurrency Class" Url="html/T-CoinpaprikaApi.Models.SearchCurrency.htm">
+      <HelpTOCNode Title="SearchCurrency Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchCurrency.htm" />
+      <HelpTOCNode Id="f73f49f1-a1a8-4f96-9df2-8cf58cb629a1" Title="SearchCurrency Properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchCurrency.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Id.htm" />
+        <HelpTOCNode Title="IsActive Property " Url="html/P-CoinpaprikaApi.Models.SearchCurrency.IsActive.htm" />
+        <HelpTOCNode Title="IsNew Property " Url="html/P-CoinpaprikaApi.Models.SearchCurrency.IsNew.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Name.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Rank.htm" />
+        <HelpTOCNode Title="Rev Property " Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Rev.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Symbol.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-CoinpaprikaApi.Models.SearchCurrency.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ab44717c-58eb-43d7-afa2-de244d70a8b2" Title="SearchExchange Class" Url="html/T-CoinpaprikaApi.Models.SearchExchange.htm">
+      <HelpTOCNode Title="SearchExchange Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchExchange.htm" />
+      <HelpTOCNode Id="9ccc8ae8-23cf-407b-bad5-f67b3984f6e2" Title="SearchExchange Properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchExchange.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.SearchExchange.Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.SearchExchange.Name.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/P-CoinpaprikaApi.Models.SearchExchange.Rank.htm" />
+        <HelpTOCNode Title="Rev Property " Url="html/P-CoinpaprikaApi.Models.SearchExchange.Rev.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e75ff94c-0107-4119-944d-e09c7471ed3c" Title="SearchIco Class" Url="html/T-CoinpaprikaApi.Models.SearchIco.htm">
+      <HelpTOCNode Title="SearchIco Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchIco.htm" />
+      <HelpTOCNode Id="88618726-000a-4424-af70-caacda546a78" Title="SearchIco Properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchIco.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.SearchIco.Id.htm" />
+        <HelpTOCNode Title="IsNew Property " Url="html/P-CoinpaprikaApi.Models.SearchIco.IsNew.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.SearchIco.Name.htm" />
+        <HelpTOCNode Title="Rev Property " Url="html/P-CoinpaprikaApi.Models.SearchIco.Rev.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinpaprikaApi.Models.SearchIco.Symbol.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e90cadba-d153-444d-a9c6-249ec4474534" Title="SearchPerson Class" Url="html/T-CoinpaprikaApi.Models.SearchPerson.htm">
+      <HelpTOCNode Title="SearchPerson Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchPerson.htm" />
+      <HelpTOCNode Id="ccff3fb2-a22a-437c-ab72-f5421d8f12eb" Title="SearchPerson Properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchPerson.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.SearchPerson.Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.SearchPerson.Name.htm" />
+        <HelpTOCNode Title="TeamsCount Property " Url="html/P-CoinpaprikaApi.Models.SearchPerson.TeamsCount.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="299cf635-5539-4b72-8a73-cc4b3ed6fecf" Title="SearchResponse Class" Url="html/T-CoinpaprikaApi.Models.SearchResponse.htm">
+      <HelpTOCNode Title="SearchResponse Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchResponse.htm" />
+      <HelpTOCNode Id="fedbe84b-07ff-41f9-ab94-80b12e2f8430" Title="SearchResponse Properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchResponse.htm">
+        <HelpTOCNode Title="Currencies Property " Url="html/P-CoinpaprikaApi.Models.SearchResponse.Currencies.htm" />
+        <HelpTOCNode Title="Exchanges Property " Url="html/P-CoinpaprikaApi.Models.SearchResponse.Exchanges.htm" />
+        <HelpTOCNode Title="Icos Property " Url="html/P-CoinpaprikaApi.Models.SearchResponse.Icos.htm" />
+        <HelpTOCNode Title="People Property " Url="html/P-CoinpaprikaApi.Models.SearchResponse.People.htm" />
+        <HelpTOCNode Title="Tags Property " Url="html/P-CoinpaprikaApi.Models.SearchResponse.Tags.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8eb63839-450f-4028-8896-5113608eb19c" Title="SearchTag Class" Url="html/T-CoinpaprikaApi.Models.SearchTag.htm">
+      <HelpTOCNode Title="SearchTag Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.SearchTag.htm" />
+      <HelpTOCNode Id="068c7b7f-71b1-442c-8e7e-37aa4ad04381" Title="SearchTag Properties" Url="html/Properties.T-CoinpaprikaApi.Models.SearchTag.htm">
+        <HelpTOCNode Title="CoinCounter Property " Url="html/P-CoinpaprikaApi.Models.SearchTag.CoinCounter.htm" />
+        <HelpTOCNode Title="IcoCounter Property " Url="html/P-CoinpaprikaApi.Models.SearchTag.IcoCounter.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.SearchTag.Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.SearchTag.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d23f6ebb-a291-4000-a273-4cff62399f8c" Title="TagItem Class" Url="html/T-CoinpaprikaApi.Models.TagItem.htm">
+      <HelpTOCNode Title="TagItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.TagItem.htm" />
+      <HelpTOCNode Id="24fe1227-f526-4504-9569-21086871e4f7" Title="TagItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.TagItem.htm">
+        <HelpTOCNode Title="CoinCounter Property " Url="html/P-CoinpaprikaApi.Models.TagItem.CoinCounter.htm" />
+        <HelpTOCNode Title="Coins Property " Url="html/P-CoinpaprikaApi.Models.TagItem.Coins.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P-CoinpaprikaApi.Models.TagItem.Description.htm" />
+        <HelpTOCNode Title="IcoCounter Property " Url="html/P-CoinpaprikaApi.Models.TagItem.IcoCounter.htm" />
+        <HelpTOCNode Title="Icos Property " Url="html/P-CoinpaprikaApi.Models.TagItem.Icos.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.TagItem.Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.TagItem.Name.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-CoinpaprikaApi.Models.TagItem.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ac0d7672-066c-4ec7-8909-d76d0d6c5c82" Title="TickerItem Class" Url="html/T-CoinpaprikaApi.Models.TickerItem.htm">
+      <HelpTOCNode Title="TickerItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickerItem.htm" />
+      <HelpTOCNode Id="dfefaae7-713c-4fea-91b9-e9725c2df777" Title="TickerItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.TickerItem.htm">
+        <HelpTOCNode Title="BetaValue Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.BetaValue.htm" />
+        <HelpTOCNode Title="CirculatingSupply Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.CirculatingSupply.htm" />
+        <HelpTOCNode Title="FirstDataAt Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.FirstDataAt.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.Id.htm" />
+        <HelpTOCNode Title="LastUpdated Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.LastUpdated.htm" />
+        <HelpTOCNode Title="MaxSupply Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.MaxSupply.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.Name.htm" />
+        <HelpTOCNode Title="Quotes Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.Quotes.htm" />
+        <HelpTOCNode Title="Rank Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.Rank.htm" />
+        <HelpTOCNode Title="Symbol Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.Symbol.htm" />
+        <HelpTOCNode Title="TotalSupply Property " Url="html/P-CoinpaprikaApi.Models.TickerItem.TotalSupply.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a118586-c576-426d-8721-19949eeb8555" Title="TickerQuote Class" Url="html/T-CoinpaprikaApi.Models.TickerQuote.htm">
+      <HelpTOCNode Title="TickerQuote Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickerQuote.htm" />
+      <HelpTOCNode Id="43131cfa-b837-444f-99cc-9861b5344a4c" Title="TickerQuote Properties" Url="html/Properties.T-CoinpaprikaApi.Models.TickerQuote.htm">
+        <HelpTOCNode Title="AthDate Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.AthDate.htm" />
+        <HelpTOCNode Title="AthPrice Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.AthPrice.htm" />
+        <HelpTOCNode Title="MarketCap Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.MarketCap.htm" />
+        <HelpTOCNode Title="MarketCapChange24H Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.MarketCapChange24H.htm" />
+        <HelpTOCNode Title="PercentChange12H Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange12H.htm" />
+        <HelpTOCNode Title="PercentChange15M Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange15M.htm" />
+        <HelpTOCNode Title="PercentChange1H Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange1H.htm" />
+        <HelpTOCNode Title="PercentChange1Y Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange1Y.htm" />
+        <HelpTOCNode Title="PercentChange24H Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange24H.htm" />
+        <HelpTOCNode Title="PercentChange30D Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange30D.htm" />
+        <HelpTOCNode Title="PercentChange30M Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange30M.htm" />
+        <HelpTOCNode Title="PercentChange6H Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange6H.htm" />
+        <HelpTOCNode Title="PercentChange7D Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentChange7D.htm" />
+        <HelpTOCNode Title="PercentFromPriceAth Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.PercentFromPriceAth.htm" />
+        <HelpTOCNode Title="Price Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.Price.htm" />
+        <HelpTOCNode Title="Volume24H Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.Volume24H.htm" />
+        <HelpTOCNode Title="Volume24HChange24H Property " Url="html/P-CoinpaprikaApi.Models.TickerQuote.Volume24HChange24H.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a980dd8f-f92f-41bc-a54d-877055dee9a8" Title="TickItem Class" Url="html/T-CoinpaprikaApi.Models.TickItem.htm">
+      <HelpTOCNode Title="TickItem Members" Url="html/AllMembers.T-CoinpaprikaApi.Models.TickItem.htm" />
+      <HelpTOCNode Id="bcc14ee6-2809-47db-8655-eea884955b49" Title="TickItem Properties" Url="html/Properties.T-CoinpaprikaApi.Models.TickItem.htm">
+        <HelpTOCNode Title="MarketCap Property " Url="html/P-CoinpaprikaApi.Models.TickItem.MarketCap.htm" />
+        <HelpTOCNode Title="Price Property " Url="html/P-CoinpaprikaApi.Models.TickItem.Price.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-CoinpaprikaApi.Models.TickItem.Timestamp.htm" />
+        <HelpTOCNode Title="Volume24H Property " Url="html/P-CoinpaprikaApi.Models.TickItem.Volume24H.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="4129c3ba-9d24-4bff-b948-e945d15f50f3" Title="CoinpaprikaApi.Properties Namespace" Url="html/N-CoinpaprikaApi.Properties.htm">
+    <HelpTOCNode Id="fde73422-2f27-4d90-97a1-9e2eb06dda61" Title="Resources Class" Url="html/T-CoinpaprikaApi.Properties.Resources.htm">
+      <HelpTOCNode Title="Resources Members" Url="html/AllMembers.T-CoinpaprikaApi.Properties.Resources.htm" />
+      <HelpTOCNode Id="36e1a397-8640-4eed-85dc-dae1ac5261db" Title="Resources Properties" Url="html/Properties.T-CoinpaprikaApi.Properties.Resources.htm">
+        <HelpTOCNode Title="coinpaprika_logo Property " Url="html/P-CoinpaprikaApi.Properties.Resources.coinpaprika_logo.htm" />
+        <HelpTOCNode Title="Culture Property " Url="html/P-CoinpaprikaApi.Properties.Resources.Culture.htm" />
+        <HelpTOCNode Title="ResourceManager Property " Url="html/P-CoinpaprikaApi.Properties.Resources.ResourceManager.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="e398acff-d627-45d9-b586-e006e9b1f321" Title="CoinpaprikaApi.Types Namespace" Url="html/N-CoinpaprikaApi.Types.htm">
+    <HelpTOCNode Title="SearchCategory Enumeration" Url="html/T-CoinpaprikaApi.Types.SearchCategory.htm" />
+    <HelpTOCNode Title="TickerInterval Enumeration" Url="html/T-CoinpaprikaApi.Types.TickerInterval.htm" />
+  </HelpTOCNode>
+</HelpTOC>
