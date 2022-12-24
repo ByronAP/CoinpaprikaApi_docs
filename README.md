@@ -1,0 +1,1 @@
+# CoinpaprikaApi_docs
